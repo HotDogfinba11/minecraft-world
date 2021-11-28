@@ -118,7 +118,7 @@ world-settings:
     disable-teleportation-suffocation-check: false
     piglins-guard-chests: true
     should-remove-dragon: false
-    max-auto-save-chunks-per-tick: 24
+    max-auto-save-chunks-per-tick: 6
     baby-zombie-movement-modifier: 0.5
     optimize-explosions: false
     fixed-chunk-inhabited-time: -1
