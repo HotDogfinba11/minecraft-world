@@ -47,3 +47,8 @@
 [19:31:05] [Server thread/INFO]: jelly_shay[/192.168.0.63:59927] logged in with entity id 2439 at ([olly]-388.8177916100417, 64.0, 305.4457810297066)
 [19:31:13] [Server thread/INFO]: jelly_shay lost connection: Disconnected
 [19:31:13] [Server thread/INFO]: jelly_shay left the game
+[20:11:59] [User Authenticator #5/INFO]: UUID of player jelly_shay is fb279d10-2ed8-48c2-87de-09091ede8a3e
+[20:11:59] [Server thread/INFO]: jelly_shay joined the game
+[20:11:59] [Server thread/INFO]: jelly_shay[/192.168.0.63:59946] logged in with entity id 2567 at ([olly]-388.8177916100417, 64.0, 305.4457810297066)
+[20:14:00] [Server thread/INFO]: jelly_shay lost connection: Disconnected
+[20:14:00] [Server thread/INFO]: jelly_shay left the game
