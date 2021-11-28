@@ -18,5 +18,5 @@ do
         echo "Server is not running!"
         echo "Skipping backup on day $date at time $time"
     fi
-    sleep 1h
+    sleep 5s
 done
