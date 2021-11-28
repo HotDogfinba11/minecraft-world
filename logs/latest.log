@@ -29,3 +29,6 @@
 [18:15:50] [Server thread/INFO]: jelly_shay[/192.168.0.63:59837] logged in with entity id 232 at ([olly]-366.3266600450443, 63.0, 293.8720649450141)
 [18:28:19] [Server thread/INFO]: jelly_shay lost connection: Disconnected
 [18:28:19] [Server thread/INFO]: jelly_shay left the game
+[18:30:11] [User Authenticator #2/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
+[18:30:11] [Server thread/INFO]: Tobywoby08 joined the game
+[18:30:11] [Server thread/INFO]: Tobywoby08[/192.168.0.183:50182] logged in with entity id 1450 at ([olly]-228.5, 63.0, 255.5)
