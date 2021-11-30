@@ -1,5 +1,30 @@
-[14:34:39] [User Authenticator #6/INFO]: UUID of player jelly_shay is fb279d10-2ed8-48c2-87de-09091ede8a3e
-[14:34:39] [Server thread/INFO]: jelly_shay joined the game
-[14:34:39] [Server thread/INFO]: jelly_shay[/192.168.0.1:62805] logged in with entity id 2950 at ([olly]-415.68952556669456, 62.9375, 305.75331073088984)
-[14:35:59] [Server thread/INFO]: jelly_shay lost connection: Disconnected
-[14:35:59] [Server thread/INFO]: jelly_shay left the game
+[20:45:53] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:45:55] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[20:45:58] [Worker-Main-1/INFO]: Loaded 7 recipes
+[20:46:03] [Server thread/INFO]: Starting minecraft server version 1.18
+[20:46:03] [Server thread/INFO]: Loading properties
+[20:46:03] [Server thread/INFO]: This server is running Paper version git-Paper-10 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: c728c78)
+[20:46:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:46:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:46:04] [Server thread/INFO]: Default game type: SURVIVAL
+[20:46:04] [Server thread/INFO]: Generating keypair
+[20:46:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:46:04] [Server thread/INFO]: Using epoll channel type
+[20:46:04] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[20:46:04] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
+[20:46:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:46:05] [Server thread/INFO]: Preparing level "olly"
+[20:46:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:46:11] [Server thread/INFO]: Time elapsed: 1558 ms
+[20:46:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:46:12] [Server thread/INFO]: Time elapsed: 787 ms
+[20:46:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:46:13] [Server thread/INFO]: Time elapsed: 752 ms
+[20:46:14] [Server thread/INFO]: Running delayed init tasks
+[20:46:14] [Server thread/INFO]: Done (10.648s)! For help, type "help"
+[20:46:14] [Server thread/INFO]: Timings Reset
+[20:57:09] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[20:57:09] [Server thread/INFO]: oliveh2003 joined the game
+[20:57:10] [Server thread/INFO]: oliveh2003[/192.168.0.1:63412] logged in with entity id 173 at ([olly]-211.5, 63.0, 246.5)
+[20:59:21] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[20:59:21] [Server thread/INFO]: oliveh2003 left the game
