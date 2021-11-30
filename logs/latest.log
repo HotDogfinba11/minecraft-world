@@ -1,54 +1,5 @@
-[18:13:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:13:45] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[18:13:49] [Worker-Main-1/INFO]: Loaded 7 recipes
-[18:13:54] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[18:13:54] [Server thread/INFO]: Loading properties
-[18:13:55] [Server thread/INFO]: This server is running Paper version git-Paper-20211128 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 22aaf91)
-[18:13:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:13:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:13:55] [Server thread/INFO]: Default game type: SURVIVAL
-[18:13:55] [Server thread/INFO]: Generating keypair
-[18:13:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:13:56] [Server thread/INFO]: Using epoll channel type
-[18:13:56] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
-[18:13:56] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
-[18:13:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:13:56] [Server thread/INFO]: Preparing level "olly"
-[18:13:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:13:59] [Server thread/INFO]: Time elapsed: 1594 ms
-[18:13:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:14:00] [Server thread/INFO]: Time elapsed: 901 ms
-[18:14:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:14:02] [Server thread/INFO]: Time elapsed: 1879 ms
-[18:14:02] [Server thread/INFO]: Running delayed init tasks
-[18:14:02] [Server thread/INFO]: Done (8.214s)! For help, type "help"
-[18:14:02] [Server thread/INFO]: Timings Reset
-[18:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
-[18:15:49] [User Authenticator #1/INFO]: UUID of player jelly_shay is fb279d10-2ed8-48c2-87de-09091ede8a3e
-[18:15:50] [Server thread/INFO]: jelly_shay joined the game
-[18:15:50] [Server thread/INFO]: jelly_shay[/192.168.0.63:59837] logged in with entity id 232 at ([olly]-366.3266600450443, 63.0, 293.8720649450141)
-[18:28:19] [Server thread/INFO]: jelly_shay lost connection: Disconnected
-[18:28:19] [Server thread/INFO]: jelly_shay left the game
-[18:30:11] [User Authenticator #2/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
-[18:30:11] [Server thread/INFO]: Tobywoby08 joined the game
-[18:30:11] [Server thread/INFO]: Tobywoby08[/192.168.0.183:50182] logged in with entity id 1450 at ([olly]-228.5, 63.0, 255.5)
-[18:31:56] [Server thread/INFO]: Tobywoby08 has made the advancement [Acquire Hardware]
-[18:32:05] [Server thread/INFO]: Tobywoby08 has made the advancement [Suit Up]
-[18:32:35] [Server thread/INFO]: Tobywoby08 lost connection: Disconnected
-[18:32:35] [Server thread/INFO]: Tobywoby08 left the game
-[18:35:53] [User Authenticator #3/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
-[18:35:53] [Server thread/INFO]: Tobywoby08 joined the game
-[18:35:53] [Server thread/INFO]: Tobywoby08[/192.168.0.183:50414] logged in with entity id 1930 at ([olly]-445.42938563175755, 57.0, 339.71142800912486)
-[18:36:36] [Server thread/INFO]: Tobywoby08 has made the advancement [Isn't It Iron Pick]
-[18:39:24] [Server thread/INFO]: Tobywoby08 lost connection: Disconnected
-[18:39:24] [Server thread/INFO]: Tobywoby08 left the game
-[19:31:05] [User Authenticator #4/INFO]: UUID of player jelly_shay is fb279d10-2ed8-48c2-87de-09091ede8a3e
-[19:31:05] [Server thread/INFO]: jelly_shay joined the game
-[19:31:05] [Server thread/INFO]: jelly_shay[/192.168.0.63:59927] logged in with entity id 2439 at ([olly]-388.8177916100417, 64.0, 305.4457810297066)
-[19:31:13] [Server thread/INFO]: jelly_shay lost connection: Disconnected
-[19:31:13] [Server thread/INFO]: jelly_shay left the game
-[20:11:59] [User Authenticator #5/INFO]: UUID of player jelly_shay is fb279d10-2ed8-48c2-87de-09091ede8a3e
-[20:11:59] [Server thread/INFO]: jelly_shay joined the game
-[20:11:59] [Server thread/INFO]: jelly_shay[/192.168.0.63:59946] logged in with entity id 2567 at ([olly]-388.8177916100417, 64.0, 305.4457810297066)
-[20:14:00] [Server thread/INFO]: jelly_shay lost connection: Disconnected
-[20:14:00] [Server thread/INFO]: jelly_shay left the game
+[14:34:39] [User Authenticator #6/INFO]: UUID of player jelly_shay is fb279d10-2ed8-48c2-87de-09091ede8a3e
+[14:34:39] [Server thread/INFO]: jelly_shay joined the game
+[14:34:39] [Server thread/INFO]: jelly_shay[/192.168.0.1:62805] logged in with entity id 2950 at ([olly]-415.68952556669456, 62.9375, 305.75331073088984)
+[14:35:59] [Server thread/INFO]: jelly_shay lost connection: Disconnected
+[14:35:59] [Server thread/INFO]: jelly_shay left the game
