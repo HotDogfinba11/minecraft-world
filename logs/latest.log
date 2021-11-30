@@ -23,3 +23,49 @@
 [21:31:35] [Server thread/INFO]: Running delayed init tasks
 [21:31:35] [Server thread/INFO]: Done (10.387s)! For help, type "help"
 [21:31:35] [Server thread/INFO]: Timings Reset
+[21:32:11] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[21:32:19] [Server thread/INFO]: oliveh2003 joined the game
+[21:32:19] [Server thread/INFO]: oliveh2003[/192.168.0.1:63460] logged in with entity id 113 at ([olly]-401.949116635157, 63.0, 342.9141415432571)
+[21:32:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[21:32:44] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[21:32:45] [Server thread/INFO]: oliveh2003 left the game
+[21:32:48] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[21:32:48] [Server thread/INFO]: oliveh2003 joined the game
+[21:32:48] [Server thread/INFO]: oliveh2003[/192.168.0.1:63467] logged in with entity id 262 at ([olly]-401.9334720399845, 63.0, 342.9500843681368)
+[21:33:12] [Server thread/WARN]: oliveh2003 moved wrongly!
+[21:34:07] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[21:34:07] [Server thread/INFO]: oliveh2003 left the game
+[21:37:45] [User Authenticator #2/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
+[21:37:46] [Server thread/INFO]: Tobywoby08 joined the game
+[21:37:46] [Server thread/INFO]: Tobywoby08[/192.168.0.183:52621] logged in with entity id 577 at ([olly]-426.1767504327812, 64.0, 328.7664065907576)
+[21:37:57] [Server thread/INFO]: Tobywoby08 has made the advancement [Monster Hunter]
+[21:40:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5125ms or 102 ticks behind
+[21:41:47] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-10 (MC: 1.18) ---
+[21:41:47] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[21:41:47] [Paper Watchdog Thread/ERROR]: ------------------------------
+[21:41:47] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[21:41:47] [Paper Watchdog Thread/ERROR]: ------------------------------
+[21:41:47] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[21:41:47] [Server thread/INFO]: Tobywoby08 lost connection: Disconnected
+[21:41:47] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: RUNNABLE
+[21:41:47] [Paper Watchdog Thread/ERROR]: 	Stack:
+[21:41:47] [Server thread/INFO]: Tobywoby08 left the game
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		java.base@17/java.util.ArrayDeque.removeLast(ArrayDeque.java:370)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		co.aikar.timings.TimingHandler.popTimingStack(TimingHandler.java:127)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:117)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:838)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:1036)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:923)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:622)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1606)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:480)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1469)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1263)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$3925/0x000000080142a4d8.run(Unknown Source)
+[21:41:48] [Paper Watchdog Thread/ERROR]: 		java.base@17/java.lang.Thread.run(Thread.java:833)
+[21:41:48] [Paper Watchdog Thread/ERROR]: ------------------------------
+[21:41:48] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[21:41:48] [Paper Watchdog Thread/ERROR]: ------------------------------
+[21:42:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 81239ms or 1624 ticks behind
+[21:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5821ms or 116 ticks behind
