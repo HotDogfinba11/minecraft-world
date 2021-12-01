@@ -6,3 +6,16 @@
 [09:41:12] [Server thread/INFO]: oliveh2003 lost connection: Timed out
 [09:41:12] [Server thread/INFO]: oliveh2003 left the game
 [09:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 129618ms or 2592 ticks behind
+[19:23:17] [User Authenticator #4/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[19:23:17] [Server thread/INFO]: oliveh2003 joined the game
+[19:23:18] [Server thread/INFO]: oliveh2003[/192.168.0.1:64436] logged in with entity id 2330 at ([olly]-444.7405468560864, 57.0, 339.6726090700074)
+[19:23:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5530ms or 110 ticks behind
+[19:23:25] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[19:23:25] [Server thread/INFO]: oliveh2003 left the game
+[19:24:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@36cdcf2[id=<null>,name=oliveh2003,properties={},legacy=false] (/192.168.0.1:64459) lost connection: Disconnected
+[19:24:25] [User Authenticator #5/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[19:24:25] [Server thread/INFO]: oliveh2003 joined the game
+[19:24:26] [Server thread/INFO]: oliveh2003[/192.168.0.1:64461] logged in with entity id 2448 at ([olly]-444.7405468560864, 57.0, 339.6726090700074)
+[19:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5410ms or 108 ticks behind
+[19:24:37] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[19:24:37] [Server thread/INFO]: oliveh2003 left the game
