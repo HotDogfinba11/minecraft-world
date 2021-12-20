@@ -115,6 +115,11 @@ timings:
   server-name: Unknown Server
 world-settings:
   default:
+    anticheat:
+      obfuscation:
+        items:
+          hide-itemmeta: false
+          hide-durability: false
     disable-teleportation-suffocation-check: false
     piglins-guard-chests: true
     should-remove-dragon: false

@@ -102,6 +102,10 @@ world-settings:
       exp: 3.0
       item: 2.5
     growth:
+      twistingvines-modifier: 100
+      weepingvines-modifier: 100
+      cavevines-modifier: 100
+      glowberry-modifier: 100
       cactus-modifier: 100
       cane-modifier: 100
       melon-modifier: 100

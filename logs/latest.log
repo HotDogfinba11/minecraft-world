@@ -1,1 +1,7 @@
-[05:24:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@7be88d66[id=<null>,name=INETDataSurveyL5,properties={},legacy=false] (/163.172.139.143:54456) lost connection: Disconnected
+[10:55:20] [User Authenticator #3/INFO]: UUID of player _DoMiX is af40f911-a4c1-4c7d-8324-03973e58e40e
+[10:55:20] [Server thread/INFO]: _DoMiX joined the game
+[10:55:20] [Server thread/INFO]: _DoMiX[/2.56.57.45:53360] logged in with entity id 489 at ([olly]-214.5, 64.0, 258.5)
+[10:55:20] [Async Chat Thread - #1/INFO]: <_DoMiX> Reference Class Name: foo
+
+[10:55:21] [Server thread/INFO]: _DoMiX lost connection: Disconnected
+[10:55:21] [Server thread/INFO]: _DoMiX left the game
