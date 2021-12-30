@@ -1,7 +1,25 @@
-[10:55:20] [User Authenticator #3/INFO]: UUID of player _DoMiX is af40f911-a4c1-4c7d-8324-03973e58e40e
-[10:55:20] [Server thread/INFO]: _DoMiX joined the game
-[10:55:20] [Server thread/INFO]: _DoMiX[/2.56.57.45:53360] logged in with entity id 489 at ([olly]-214.5, 64.0, 258.5)
-[10:55:20] [Async Chat Thread - #1/INFO]: <_DoMiX> Reference Class Name: foo
-
-[10:55:21] [Server thread/INFO]: _DoMiX lost connection: Disconnected
-[10:55:21] [Server thread/INFO]: _DoMiX left the game
+[12:08:53] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:08:55] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[12:08:58] [Worker-Main-1/INFO]: Loaded 7 recipes
+[12:09:03] [Server thread/INFO]: Starting minecraft server version 1.18
+[12:09:03] [Server thread/INFO]: Loading properties
+[12:09:03] [Server thread/INFO]: This server is running Paper version git-Paper-20211205 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: a42917d)
+[12:09:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:09:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:09:04] [Server thread/INFO]: Default game type: SURVIVAL
+[12:09:04] [Server thread/INFO]: Generating keypair
+[12:09:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:09:04] [Server thread/INFO]: Using epoll channel type
+[12:09:04] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[12:09:04] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
+[12:09:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:09:05] [Server thread/INFO]: Preparing level "olly"
+[12:09:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:09:11] [Server thread/INFO]: Time elapsed: 1990 ms
+[12:09:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:09:12] [Server thread/INFO]: Time elapsed: 1091 ms
+[12:09:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:09:13] [Server thread/INFO]: Time elapsed: 918 ms
+[12:09:14] [Server thread/INFO]: Running delayed init tasks
+[12:09:14] [Server thread/INFO]: Done (10.589s)! For help, type "help"
+[12:09:14] [Server thread/INFO]: Timings Reset
