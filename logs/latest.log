@@ -5,3 +5,16 @@
 [12:40:58] [Server thread/INFO]: jelly_shay has made the advancement [The Parrots and the Bats]
 [12:44:40] [Server thread/INFO]: jelly_shay lost connection: Disconnected
 [12:44:40] [Server thread/INFO]: jelly_shay left the game
+[15:44:57] [Server thread/INFO]: Stopping server
+[15:44:57] [Server thread/INFO]: Saving players
+[15:44:57] [Server thread/INFO]: Saving worlds
+[15:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly]'/minecraft:overworld
+[15:44:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_nether]'/minecraft:the_nether
+[15:45:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_the_end]'/minecraft:the_end
+[15:45:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (olly): All chunks are saved
+[15:45:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:45:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:45:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:45:00] [Server thread/INFO]: Flushing Chunk IO
+[15:45:00] [Server thread/INFO]: Closing Thread Pool
+[15:45:00] [Server thread/INFO]: Closing Server
