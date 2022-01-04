@@ -1,25 +1,7 @@
-[15:46:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:46:49] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[15:46:53] [Worker-Main-1/INFO]: Loaded 7 recipes
-[15:46:58] [Server thread/INFO]: Starting minecraft server version 1.18
-[15:46:58] [Server thread/INFO]: Loading properties
-[15:46:58] [Server thread/INFO]: This server is running Paper version git-Paper-20211205 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: a42917d)
-[15:46:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:46:58] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:46:59] [Server thread/INFO]: Default game type: SURVIVAL
-[15:46:59] [Server thread/INFO]: Generating keypair
-[15:46:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:46:59] [Server thread/INFO]: Using epoll channel type
-[15:46:59] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
-[15:46:59] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
-[15:47:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:47:00] [Server thread/INFO]: Preparing level "olly"
-[15:47:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:47:06] [Server thread/INFO]: Time elapsed: 2158 ms
-[15:47:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:47:07] [Server thread/INFO]: Time elapsed: 1102 ms
-[15:47:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:47:08] [Server thread/INFO]: Time elapsed: 1288 ms
-[15:47:09] [Server thread/INFO]: Running delayed init tasks
-[15:47:09] [Server thread/INFO]: Done (11.030s)! For help, type "help"
-[15:47:09] [Server thread/INFO]: Timings Reset
+[12:38:45] [User Authenticator #1/INFO]: UUID of player jelly_shay is fb279d10-2ed8-48c2-87de-09091ede8a3e
+[12:38:46] [Server thread/INFO]: jelly_shay joined the game
+[12:38:47] [Server thread/INFO]: jelly_shay[/85.255.237.33:55380] logged in with entity id 250 at ([olly]-425.5, 69.0, 338.5)
+[12:38:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5228ms or 104 ticks behind
+[12:40:58] [Server thread/INFO]: jelly_shay has made the advancement [The Parrots and the Bats]
+[12:44:40] [Server thread/INFO]: jelly_shay lost connection: Disconnected
+[12:44:40] [Server thread/INFO]: jelly_shay left the game
