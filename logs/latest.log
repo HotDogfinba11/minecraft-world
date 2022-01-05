@@ -1,29 +1,13 @@
-[15:45:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:46:26] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[15:46:30] [Worker-Main-1/INFO]: Loaded 7 recipes
-[15:46:34] [Server thread/INFO]: Starting minecraft server version 1.18
-[15:46:34] [Server thread/INFO]: Loading properties
-[15:46:35] [Server thread/INFO]: This server is running Paper version git-Paper-20211205 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: a42917d)
-[15:46:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:46:35] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:46:35] [Server thread/INFO]: Default game type: SURVIVAL
-[15:46:35] [Server thread/INFO]: Generating keypair
-[15:46:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:46:36] [Server thread/INFO]: Using epoll channel type
-[15:46:36] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
-[15:46:36] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
-[15:46:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:46:36] [Server thread/INFO]: Preparing level "olly"
-[15:46:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:46:42] [Server thread/INFO]: Preparing spawn area: 0%
-[15:46:42] [Server thread/INFO]: Preparing spawn area: 0%
-[15:46:42] [Server thread/INFO]: Preparing spawn area: 0%
-[15:46:42] [Server thread/INFO]: Preparing spawn area: 0%
-[15:46:42] [Server thread/INFO]: Time elapsed: 1983 ms
-[15:46:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:46:43] [Server thread/INFO]: Time elapsed: 886 ms
-[15:46:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:46:45] [Server thread/INFO]: Time elapsed: 1477 ms
-[15:46:45] [Server thread/INFO]: Running delayed init tasks
-[15:46:45] [Server thread/INFO]: Done (10.959s)! For help, type "help"
-[15:46:45] [Server thread/INFO]: Timings Reset
+[22:31:31] [Server thread/INFO]: Stopping server
+[22:31:31] [Server thread/INFO]: Saving players
+[22:31:31] [Server thread/INFO]: Saving worlds
+[22:31:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly]'/minecraft:overworld
+[22:31:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_nether]'/minecraft:the_nether
+[22:31:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_the_end]'/minecraft:the_end
+[22:31:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (olly): All chunks are saved
+[22:31:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:31:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:31:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:31:32] [Server thread/INFO]: Flushing Chunk IO
+[22:31:32] [Server thread/INFO]: Closing Thread Pool
+[22:31:32] [Server thread/INFO]: Closing Server
