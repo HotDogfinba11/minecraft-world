@@ -1,7 +1,3 @@
-[06:41:45] [User Authenticator #1/INFO]: UUID of player FermatSleep is 9abd3b4d-a8cd-4290-acc5-303c74da3e3f
-[06:41:45] [Server thread/INFO]: FermatSleep joined the game
-[06:41:46] [Server thread/INFO]: FermatSleep[/185.233.105.120:38567] logged in with entity id 500 at ([olly]-221.5, 63.0, 258.5)
-[06:41:46] [Async Chat Thread - #0/INFO]: <FermatSleep> Reference Class Name: foo
-
-[06:41:47] [Server thread/INFO]: FermatSleep lost connection: Disconnected
-[06:41:47] [Server thread/INFO]: FermatSleep left the game
+[20:45:10] [User Authenticator #2/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
+[20:45:10] [Server thread/INFO]: Tobywoby08 joined the game
+[20:45:10] [Server thread/INFO]: Tobywoby08[/192.168.0.63:50470] logged in with entity id 750 at ([olly]-911.3000000119209, 66.0, 146.4068984726154)
