@@ -1,5 +1,13 @@
-[20:45:10] [User Authenticator #2/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
-[20:45:10] [Server thread/INFO]: Tobywoby08 joined the game
-[20:45:10] [Server thread/INFO]: Tobywoby08[/192.168.0.63:50470] logged in with entity id 750 at ([olly]-911.3000000119209, 66.0, 146.4068984726154)
-[20:51:07] [Server thread/INFO]: Tobywoby08 lost connection: Disconnected
-[20:51:07] [Server thread/INFO]: Tobywoby08 left the game
+[11:08:09] [Server thread/INFO]: Stopping server
+[11:08:09] [Server thread/INFO]: Saving players
+[11:08:09] [Server thread/INFO]: Saving worlds
+[11:08:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly]'/minecraft:overworld
+[11:08:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_nether]'/minecraft:the_nether
+[11:08:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_the_end]'/minecraft:the_end
+[11:08:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (olly): All chunks are saved
+[11:08:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:08:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:08:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:08:11] [Server thread/INFO]: Flushing Chunk IO
+[11:08:11] [Server thread/INFO]: Closing Thread Pool
+[11:08:11] [Server thread/INFO]: Closing Server
