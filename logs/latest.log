@@ -1,6 +1,5 @@
-[20:24:56] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[20:24:57] [Server thread/INFO]: oliveh2003 joined the game
-[20:24:58] [Server thread/INFO]: oliveh2003[/192.168.0.63:49924] logged in with entity id 432 at ([olly]-414.63227566475337, 64.0, 335.2657463584295)
-[20:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5206ms or 104 ticks behind
-[20:26:11] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[20:26:11] [Server thread/INFO]: oliveh2003 left the game
+[08:59:18] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[08:59:19] [Server thread/INFO]: oliveh2003 joined the game
+[08:59:19] [Server thread/INFO]: oliveh2003[/185.69.145.164:55493] logged in with entity id 637 at ([olly]-413.235940920994, 63.9375, 337.19616895040343)
+[09:00:00] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[09:00:00] [Server thread/INFO]: oliveh2003 left the game
