@@ -1,13 +1,25 @@
-[16:59:01] [Server thread/INFO]: Stopping server
-[16:59:01] [Server thread/INFO]: Saving players
-[16:59:01] [Server thread/INFO]: Saving worlds
-[16:59:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly]'/minecraft:overworld
-[16:59:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_nether]'/minecraft:the_nether
-[16:59:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_the_end]'/minecraft:the_end
-[16:59:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (olly): All chunks are saved
-[16:59:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:59:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:59:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16:59:04] [Server thread/INFO]: Flushing Chunk IO
-[16:59:04] [Server thread/INFO]: Closing Thread Pool
-[16:59:04] [Server thread/INFO]: Closing Server
+[16:59:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:59:34] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[16:59:37] [Worker-Main-1/INFO]: Loaded 7 recipes
+[16:59:42] [Server thread/INFO]: Starting minecraft server version 1.18
+[16:59:42] [Server thread/INFO]: Loading properties
+[16:59:42] [Server thread/INFO]: This server is running Paper version git-Paper-20211205 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: a42917d)
+[16:59:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:59:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:59:43] [Server thread/INFO]: Default game type: SURVIVAL
+[16:59:43] [Server thread/INFO]: Generating keypair
+[16:59:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:59:43] [Server thread/INFO]: Using epoll channel type
+[16:59:43] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[16:59:43] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
+[16:59:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:59:44] [Server thread/INFO]: Preparing level "olly"
+[16:59:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:59:49] [Server thread/INFO]: Time elapsed: 1578 ms
+[16:59:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:59:50] [Server thread/INFO]: Time elapsed: 858 ms
+[16:59:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:59:50] [Server thread/INFO]: Time elapsed: 597 ms
+[16:59:51] [Server thread/INFO]: Running delayed init tasks
+[16:59:51] [Server thread/INFO]: Done (9.566s)! For help, type "help"
+[16:59:51] [Server thread/INFO]: Timings Reset
