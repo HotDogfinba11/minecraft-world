@@ -23,3 +23,16 @@
 [16:59:51] [Server thread/INFO]: Running delayed init tasks
 [16:59:51] [Server thread/INFO]: Done (9.566s)! For help, type "help"
 [16:59:51] [Server thread/INFO]: Timings Reset
+[23:35:29] [Server thread/INFO]: Stopping server
+[23:35:29] [Server thread/INFO]: Saving players
+[23:35:29] [Server thread/INFO]: Saving worlds
+[23:35:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly]'/minecraft:overworld
+[23:35:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_nether]'/minecraft:the_nether
+[23:35:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_the_end]'/minecraft:the_end
+[23:35:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (olly): All chunks are saved
+[23:35:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:35:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:35:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:35:30] [Server thread/INFO]: Flushing Chunk IO
+[23:35:30] [Server thread/INFO]: Closing Thread Pool
+[23:35:30] [Server thread/INFO]: Closing Server
