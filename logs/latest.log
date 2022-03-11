@@ -1,8 +1,13 @@
-[23:27:15] [User Authenticator #6/INFO]: UUID of player Dejmnok420 is ce0cb5fa-9597-4ee7-a0f8-12eeeace5981
-[23:27:15] [Server thread/INFO]: Dejmnok420 joined the game
-[23:27:15] [Server thread/INFO]: Dejmnok420[/134.19.179.203:53343] logged in with entity id 5841 at ([olly]-213.5, 63.0, 249.5)
-[23:27:21] [Async Chat Thread - #2/INFO]: <Dejmnok420> Reference Class Name: foo
-
-[23:27:50] [Server thread/INFO]: Dejmnok420 was slain by Zombie
-[23:27:53] [Server thread/INFO]: Dejmnok420 lost connection: Disconnected
-[23:27:53] [Server thread/INFO]: Dejmnok420 left the game
+[16:59:01] [Server thread/INFO]: Stopping server
+[16:59:01] [Server thread/INFO]: Saving players
+[16:59:01] [Server thread/INFO]: Saving worlds
+[16:59:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly]'/minecraft:overworld
+[16:59:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_nether]'/minecraft:the_nether
+[16:59:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_the_end]'/minecraft:the_end
+[16:59:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (olly): All chunks are saved
+[16:59:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:59:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:59:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:59:04] [Server thread/INFO]: Flushing Chunk IO
+[16:59:04] [Server thread/INFO]: Closing Thread Pool
+[16:59:04] [Server thread/INFO]: Closing Server
