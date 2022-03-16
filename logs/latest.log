@@ -1,25 +1,26 @@
-[18:51:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:51:13] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[18:51:16] [Worker-Main-1/INFO]: Loaded 7 recipes
-[18:51:21] [Server thread/INFO]: Starting minecraft server version 1.18
-[18:51:21] [Server thread/INFO]: Loading properties
-[18:51:22] [Server thread/INFO]: This server is running Paper version git-Paper-20211205 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: a42917d)
-[18:51:22] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:51:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:51:22] [Server thread/INFO]: Default game type: SURVIVAL
-[18:51:22] [Server thread/INFO]: Generating keypair
-[18:51:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:51:23] [Server thread/INFO]: Using epoll channel type
-[18:51:23] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
-[18:51:23] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
-[18:51:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:51:23] [Server thread/INFO]: Preparing level "olly"
-[18:51:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:51:29] [Server thread/INFO]: Time elapsed: 1827 ms
-[18:51:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:51:30] [Server thread/INFO]: Time elapsed: 1022 ms
-[18:51:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:51:31] [Server thread/INFO]: Time elapsed: 876 ms
-[18:51:31] [Server thread/INFO]: Running delayed init tasks
-[18:51:31] [Server thread/INFO]: Done (9.999s)! For help, type "help"
-[18:51:31] [Server thread/INFO]: Timings Reset
+[11:55:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:55:14] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[11:55:17] [Worker-Main-1/INFO]: Loaded 7 recipes
+[11:55:22] [Server thread/INFO]: Starting minecraft server version 1.18
+[11:55:22] [Server thread/INFO]: Loading properties
+[11:55:23] [Server thread/INFO]: This server is running Paper version git-Paper-20211205 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: a42917d)
+[11:55:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:55:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:55:23] [Server thread/INFO]: Default game type: SURVIVAL
+[11:55:23] [Server thread/INFO]: Generating keypair
+[11:55:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:55:24] [Server thread/INFO]: Using epoll channel type
+[11:55:24] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[11:55:24] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
+[11:55:24] [Server thread/WARN]: [io.netty.util.internal.MacAddressUtil] Failed to find a usable hardware address from the network interfaces; using random bytes: e8:9d:da:98:ac:ba:02:5a
+[11:55:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:55:24] [Server thread/INFO]: Preparing level "olly"
+[11:55:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:55:31] [Server thread/INFO]: Time elapsed: 2033 ms
+[11:55:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:55:32] [Server thread/INFO]: Time elapsed: 925 ms
+[11:55:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:55:32] [Server thread/INFO]: Time elapsed: 850 ms
+[11:55:33] [Server thread/INFO]: Running delayed init tasks
+[11:55:33] [Server thread/INFO]: Done (10.886s)! For help, type "help"
+[11:55:33] [Server thread/INFO]: Timings Reset
