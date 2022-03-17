@@ -1,13 +1,39 @@
-[07:37:57] [Server thread/INFO]: Stopping server
-[07:37:57] [Server thread/INFO]: Saving players
-[07:37:57] [Server thread/INFO]: Saving worlds
-[07:37:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly]'/minecraft:overworld
-[07:37:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_nether]'/minecraft:the_nether
-[07:37:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_the_end]'/minecraft:the_end
-[07:37:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (olly): All chunks are saved
-[07:37:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:37:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:37:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07:37:58] [Server thread/INFO]: Flushing Chunk IO
-[07:37:58] [Server thread/INFO]: Closing Thread Pool
-[07:37:58] [Server thread/INFO]: Closing Server
+[14:49:26] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:49:28] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[14:49:31] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:49:36] [Server thread/INFO]: Starting minecraft server version 1.18
+[14:49:37] [Server thread/INFO]: Loading properties
+[14:49:37] [Server thread/INFO]: This server is running Paper version git-Paper-20211205 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: a42917d)
+[14:49:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:49:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:49:38] [Server thread/INFO]: Default game type: SURVIVAL
+[14:49:38] [Server thread/INFO]: Generating keypair
+[14:49:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:49:38] [Server thread/INFO]: Using epoll channel type
+[14:49:38] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[14:49:38] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
+[14:49:38] [Server thread/WARN]: [io.netty.util.internal.MacAddressUtil] Failed to find a usable hardware address from the network interfaces; using random bytes: c0:c1:0f:e3:66:76:3e:db
+[14:49:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:49:39] [Server thread/INFO]: Preparing level "olly"
+[14:49:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:49:45] [Server thread/INFO]: Time elapsed: 1769 ms
+[14:49:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:49:46] [Server thread/INFO]: Time elapsed: 862 ms
+[14:49:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:49:47] [Server thread/INFO]: Time elapsed: 1246 ms
+[14:49:48] [Server thread/INFO]: Running delayed init tasks
+[14:49:48] [Server thread/INFO]: Done (11.618s)! For help, type "help"
+[14:49:48] [Server thread/INFO]: Timings Reset
+[14:55:38] [Server thread/INFO]: Stopping server
+[14:55:38] [Server thread/INFO]: Saving players
+[14:55:39] [Server thread/INFO]: Saving worlds
+[14:55:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly]'/minecraft:overworld
+[14:55:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_nether]'/minecraft:the_nether
+[14:55:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[olly_the_end]'/minecraft:the_end
+[14:55:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (olly): All chunks are saved
+[14:55:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:55:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:55:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:55:39] [Server thread/INFO]: Flushing Chunk IO
+[14:55:39] [Server thread/INFO]: Closing Thread Pool
+[14:55:39] [Server thread/INFO]: Closing Server
