@@ -1,5 +1,2 @@
-[12:48:03] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[12:48:04] [Server thread/INFO]: oliveh2003 joined the game
-[12:48:04] [Server thread/INFO]: oliveh2003[/85.255.234.159:10314] logged in with entity id 232 at ([olly]-428.4070208437638, 50.0, 362.1171944594615)
-[12:49:57] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[12:49:57] [Server thread/INFO]: oliveh2003 left the game
+[02:29:15] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@a16d886[id=<null>,name=Bilibili_Feng,properties={},legacy=false] (/207.244.236.144:59902): Took too long to log in
+[02:29:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@a16d886[id=<null>,name=Bilibili_Feng,properties={},legacy=false] (/207.244.236.144:59902) lost connection: Took too long to log in
