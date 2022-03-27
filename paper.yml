@@ -1,18 +1,21 @@
 # This is the main configuration file for Paper.
 # As you can see, there's tons to configure. Some options may impact gameplay, so use
 # with caution, and make sure you know what each option does before configuring.
-# 
+#
 # If you need help with the configuration or have any questions related to Paper,
 # join us in our Discord or IRC channel.
-# 
+#
 # Discord: https://discord.gg/papermc
 # IRC: #paper @ irc.esper.net ( https://webchat.esper.net/?channels=paper ) 
 # Website: https://papermc.io/ 
-# Docs: https://paper.readthedocs.org/ 
+# Docs: https://docs.papermc.io/ 
 
 verbose: false
-config-version: 24
+config-version: 25
 settings:
+  fix-target-selector-tag-completion: true
+  time-command-affects-all-worlds: false
+  use-dimension-type-for-custom-spawners: false
   use-display-name-in-quit-message: false
   load-permissions-yml-before-plugins: true
   region-file-cache-size: 256
@@ -38,6 +41,7 @@ settings:
   async-chunks:
     threads: -1
   unsupported-settings:
+    perform-username-validation: true
     allow-permanent-block-break-exploits: false
     allow-piston-duplication: false
     allow-headless-pistons: false
@@ -61,6 +65,7 @@ settings:
     page-max: 2560
     total-multiplier: 0.98
   loggers:
+    use-rgb-for-named-text-colors: true
     deobfuscate-stacktraces: true
   console:
     enable-brigadier-highlighting: true
@@ -81,7 +86,7 @@ settings:
     global-max-chunk-send-rate: -1.0
     enable-frustum-priority: false
     global-max-chunk-load-rate: -1.0
-    player-max-concurrent-loads: 4.0
+    player-max-concurrent-loads: 20.0
     global-max-concurrent-loads: 500.0
   packet-limiter:
     kick-message: '&cSent too many packets'
@@ -115,6 +120,16 @@ timings:
   server-name: Unknown Server
 world-settings:
   default:
+    slime-spawn-height:
+      swamp-biome:
+        maximum: 70.0
+        minimum: 50.0
+      slime-chunk:
+        maximum: 40.0
+    monster-spawn-max-light-level: -1
+    wateranimal-spawn-height:
+      maximum: default
+      minimum: default
     anticheat:
       obfuscation:
         items:

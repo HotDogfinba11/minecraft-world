@@ -1,2 +1,24 @@
-[02:29:15] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@a16d886[id=<null>,name=Bilibili_Feng,properties={},legacy=false] (/207.244.236.144:59902): Took too long to log in
-[02:29:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@a16d886[id=<null>,name=Bilibili_Feng,properties={},legacy=false] (/207.244.236.144:59902) lost connection: Took too long to log in
+[09:41:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:42:07] [Worker-Main-1/INFO]: Loaded 7 recipes
+[09:42:14] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[09:42:14] [Server thread/INFO]: Loading properties
+[09:42:14] [Server thread/INFO]: This server is running Paper version git-Paper-267 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: e7d928a)
+[09:42:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:42:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:42:15] [Server thread/INFO]: Default game type: SURVIVAL
+[09:42:15] [Server thread/INFO]: Generating keypair
+[09:42:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:42:15] [Server thread/INFO]: Using epoll channel type
+[09:42:15] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[09:42:15] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
+[09:42:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:42:16] [Server thread/INFO]: Preparing level "olly"
+[09:42:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:42:32] [Server thread/INFO]: Time elapsed: 1362 ms
+[09:42:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[09:42:33] [Server thread/INFO]: Time elapsed: 675 ms
+[09:42:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[09:42:34] [Server thread/INFO]: Time elapsed: 1120 ms
+[09:42:35] [Server thread/INFO]: Running delayed init tasks
+[09:42:35] [Server thread/INFO]: Done (20.484s)! For help, type "help"
+[09:42:35] [Server thread/INFO]: Timings Reset
