@@ -133,3 +133,13 @@
 [07:51:14] [Server thread/INFO]: Time elapsed: 3325 ms
 [07:51:14] [Server thread/INFO]: Done (3.498s)! For help, type "help"
 [07:51:14] [dimthread_overworld/WARN]: @Redirect conflict. Skipping lithium.mixins.json:alloc.entity_tracker.EntityTrackerMixin->@Redirect::useFasterCollection()Ljava/util/Set; from mod lithium with priority 1000, already redirected by krypton.mixins.json:shared.network.microopt.TacsTrackedEntityMixin->@Redirect::construct$useFastutil()Ljava/util/Set; from mod krypton with priority 1000
+[14:32:52] [Server thread/INFO]: Stopping server
+[14:32:52] [Server thread/INFO]: Saving players
+[14:32:52] [Server thread/INFO]: Saving worlds
+[14:32:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:32:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:32:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (olly): All chunks are saved
+[14:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
