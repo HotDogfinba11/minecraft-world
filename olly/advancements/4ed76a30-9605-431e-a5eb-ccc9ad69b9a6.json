@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2022-04-09 17:59:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-02-21 12:45:48 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-04-09 18:51:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2022-02-21 13:07:11 +0000"
@@ -314,6 +326,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2022-02-21 13:04:27 +0000",
+      "apple": "2022-04-09 18:18:09 +0100",
       "mutton": "2022-02-21 13:03:49 +0000",
       "bread": "2022-02-21 12:50:05 +0000",
       "carrot": "2021-12-05 09:49:34 +0000"
@@ -401,6 +414,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-04-09 17:25:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-04-09 18:00:50 +0100"
     },
     "done": true
   },
@@ -587,10 +606,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2022-04-03 21:43:02 +0100",
+      "minecraft:windswept_hills": "2022-04-09 18:35:16 +0100",
       "minecraft:beach": "2022-04-03 21:42:38 +0100",
+      "minecraft:dark_forest": "2022-04-09 18:36:15 +0100",
       "minecraft:river": "2021-11-30 20:57:42 +0000",
       "minecraft:snowy_plains": "2022-04-03 21:43:03 +0100",
       "minecraft:snowy_taiga": "2022-04-03 21:42:52 +0100",
+      "minecraft:grove": "2022-04-09 18:47:43 +0100",
       "minecraft:cold_ocean": "2022-04-03 21:42:36 +0100",
       "minecraft:forest": "2021-11-30 20:57:10 +0000",
       "minecraft:frozen_ocean": "2022-04-03 21:42:56 +0100",
@@ -732,6 +754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-04-09 18:51:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2022-02-21 12:45:48 +0000"
@@ -836,6 +864,12 @@
       "minecraft:zombie": "2022-04-09 17:51:45 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2022-04-09 18:23:29 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
