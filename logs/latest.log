@@ -1,5 +1,5 @@
-[15:58:13] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.13.3
-[15:58:14] [main/INFO]: Loading 68 mods:
+[17:20:43] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.13.3
+[17:20:43] [main/INFO]: Loading 68 mods:
 	- c2me 0.2.0+alpha.7.12
 	- c2me-base 0.2.0+alpha.7.12 via c2me
 	- c2me-fixes-chunkio-threading-issues 0.2.0+alpha.7.12 via c2me
@@ -68,147 +68,77 @@
 	- org_threadly_threadly 6.6 via c2me
 	- recipecache 0.2.1-1.17.1
 	- starlight 1.0.2+fabric.89b8d9f
-[15:58:14] [main/WARN]: Mod `com_github_wearblackallday_javautils` (bd58640372) does not respect SemVer - comparison support is limited.
-[15:58:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft/libraries/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[15:58:14] [main/INFO]: Compatibility level set to JAVA_16
-[15:58:14] [main/INFO]: Compatibility level set to JAVA_17
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[15:58:14] [main/INFO]: Disabling config generalOptimizations.doMidTickChunkTasks: Incompatible with dimthread@1.2.6 (*) (defined in c2me)
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[15:58:14] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.threading.scheduling.mixin
-[15:58:14] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
-[15:58:14] [main/INFO]: Loaded configuration file for Lithium: 100 options available, 2 override(s) found
-[15:58:14] [main/WARN]: Mixin malte0811.ferritecore.mixin.threaddetec.PalettedContainerMixin is disabled automatically as lithium is installed
-[15:58:14] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[15:58:14] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
-[15:58:16] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=3 on fabric-lifecycle-events-v1.mixins.json:server.WorldChunkMixin::handler$zhc000$onLoadBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[15:58:17] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[15:58:17] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[15:58:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:58:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:58:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:58:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:58:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:58:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:58:18] [Worker-Main-4/INFO]: Loaded 7 recipes
-[15:58:18] [Worker-Main-4/INFO]: Loaded 1141 advancements
-[15:58:19] [main/INFO]: Applied 0 biome modifications to 0 of 61 new biomes in 1.390 ms
-[15:58:19] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[15:58:19] [Server thread/INFO]: Loading properties
-[15:58:19] [Server thread/INFO]: Default game type: SURVIVAL
-[15:58:19] [Server thread/INFO]: Generating keypair
-[15:58:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:58:19] [Server thread/INFO]: Using epoll channel type
-[15:58:19] [Server thread/INFO]: Preparing level "olly"
-[15:58:19] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
-[15:58:19] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
-[15:58:19] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
-[15:58:19] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
-[15:58:19] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
-[15:58:19] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
-[15:58:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:58:20] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[15:58:20] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[15:58:20] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[15:58:21] [C2ME worker #1/INFO]: Preparing spawn area: 8%
-[15:58:21] [C2ME worker #1/INFO]: Preparing spawn area: 22%
-[15:58:22] [minecraft_overworld - Light/INFO]: Preparing spawn area: 41%
-[15:58:22] [C2ME worker #1/INFO]: Preparing spawn area: 62%
-[15:58:23] [C2ME worker #1/INFO]: Preparing spawn area: 92%
-[15:58:23] [Server thread/INFO]: Time elapsed: 3774 ms
-[15:58:23] [Server thread/INFO]: Done (3.962s)! For help, type "help"
-[15:58:23] [dimthread_overworld/WARN]: @Redirect conflict. Skipping lithium.mixins.json:alloc.entity_tracker.EntityTrackerMixin->@Redirect::useFasterCollection()Ljava/util/Set; from mod lithium with priority 1000, already redirected by krypton.mixins.json:shared.network.microopt.TacsTrackedEntityMixin->@Redirect::construct$useFastutil()Ljava/util/Set; from mod krypton with priority 1000
-[15:58:37] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[15:58:37] [Server thread/INFO]: oliveh2003[/127.0.0.1:42172] logged in with entity id 158 at (-467.681486262518, 64.0, 372.28595501603627)
-[15:58:37] [Server thread/INFO]: oliveh2003 joined the game
-[15:58:48] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[15:58:48] [Server thread/INFO]: oliveh2003 left the game
-[16:03:23] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@6ff90a6b
-java.io.FileNotFoundException: ./olly/data/raids.dat (No such file or directory)
-	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
-	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
-	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
-	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
-	at net.minecraft.class_2507.method_30614(class_2507.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_18.method_17919(class_18.java:40) ~[server-intermediary.jar:?]
-	at net.minecraft.class_26.method_32384(class_26.java:123) ~[server-intermediary.jar:?]
-	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
-	at net.minecraft.class_26.method_125(class_26.java:121) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_14188(class_3218.java:765) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_14176(class_3218.java:747) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_39218(MinecraftServer.java:588) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:876) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:273) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:833) [?:?]
-[16:03:23] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@326a4996
-java.io.FileNotFoundException: ./olly/DIM-1/data/raids.dat (No such file or directory)
-	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
-	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
-	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
-	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
-	at net.minecraft.class_2507.method_30614(class_2507.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_18.method_17919(class_18.java:40) ~[server-intermediary.jar:?]
-	at net.minecraft.class_26.method_32384(class_26.java:123) ~[server-intermediary.jar:?]
-	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
-	at net.minecraft.class_26.method_125(class_26.java:121) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_14188(class_3218.java:765) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_14176(class_3218.java:747) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_39218(MinecraftServer.java:588) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:876) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:273) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:833) [?:?]
-[16:03:23] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@74ccb021
-java.io.FileNotFoundException: ./olly/DIM1/data/raids_end.dat (No such file or directory)
-	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
-	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
-	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
-	at java.io.FileOutputStream.<init>(FileOutputStream.java:184) ~[?:?]
-	at net.minecraft.class_2507.method_30614(class_2507.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_18.method_17919(class_18.java:40) ~[server-intermediary.jar:?]
-	at net.minecraft.class_26.method_32384(class_26.java:123) ~[server-intermediary.jar:?]
-	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
-	at net.minecraft.class_26.method_125(class_26.java:121) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_14188(class_3218.java:765) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_14176(class_3218.java:747) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_39218(MinecraftServer.java:588) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:876) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:273) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:833) [?:?]
-[16:03:23] [Server thread/ERROR]: Failed to save level ./olly
-java.io.IOException: No such file or directory
-	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
-	at java.io.File.createTempFile(File.java:2170) ~[?:?]
-	at net.minecraft.class_32$class_5143.method_27426(class_32.java:373) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:571) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_39218(MinecraftServer.java:588) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:876) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:273) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:833) [?:?]
-[16:06:28] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[16:06:28] [Server thread/INFO]: oliveh2003[/127.0.0.1:42176] logged in with entity id 605 at (-417.23722948820745, 64.0, 337.0343237421284)
-[16:06:28] [Server thread/INFO]: oliveh2003 joined the game
-[16:18:20] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[16:18:20] [Server thread/INFO]: oliveh2003 left the game
+[17:20:43] [main/WARN]: Mod `com_github_wearblackallday_javautils` (bd58640372) does not respect SemVer - comparison support is limited.
+[17:20:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft/libraries/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[17:20:43] [main/INFO]: Compatibility level set to JAVA_16
+[17:20:43] [main/INFO]: Compatibility level set to JAVA_17
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[17:20:43] [main/INFO]: Disabling config generalOptimizations.doMidTickChunkTasks: Incompatible with dimthread@1.2.6 (*) (defined in c2me)
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[17:20:43] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.threading.scheduling.mixin
+[17:20:43] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[17:20:43] [main/INFO]: Loaded configuration file for Lithium: 100 options available, 2 override(s) found
+[17:20:44] [main/WARN]: Mixin malte0811.ferritecore.mixin.threaddetec.PalettedContainerMixin is disabled automatically as lithium is installed
+[17:20:44] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[17:20:44] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
+[17:20:45] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=3 on fabric-lifecycle-events-v1.mixins.json:server.WorldChunkMixin::handler$zhc000$onLoadBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[17:20:47] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[17:20:47] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[17:20:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:20:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:20:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:20:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:20:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:20:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:20:48] [Worker-Main-8/INFO]: Loaded 7 recipes
+[17:20:48] [Worker-Main-8/INFO]: Loaded 1141 advancements
+[17:20:48] [main/INFO]: Applied 0 biome modifications to 0 of 61 new biomes in 1.435 ms
+[17:20:48] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[17:20:48] [Server thread/INFO]: Loading properties
+[17:20:48] [Server thread/INFO]: Default game type: SURVIVAL
+[17:20:48] [Server thread/INFO]: Generating keypair
+[17:20:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:20:48] [Server thread/INFO]: Using epoll channel type
+[17:20:49] [Server thread/INFO]: Preparing level "olly"
+[17:20:49] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
+[17:20:49] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
+[17:20:49] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
+[17:20:49] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
+[17:20:49] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
+[17:20:49] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
+[17:20:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:20:50] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[17:20:50] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[17:20:50] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[17:20:50] [C2ME worker #1/INFO]: Preparing spawn area: 4%
+[17:20:51] [C2ME worker #1/INFO]: Preparing spawn area: 26%
+[17:20:51] [C2ME worker #1/INFO]: Preparing spawn area: 41%
+[17:20:52] [C2ME worker #1/INFO]: Preparing spawn area: 55%
+[17:20:52] [Server thread/INFO]: Time elapsed: 3439 ms
+[17:20:52] [Server thread/INFO]: Done (3.617s)! For help, type "help"
+[17:20:52] [dimthread_overworld/WARN]: @Redirect conflict. Skipping lithium.mixins.json:alloc.entity_tracker.EntityTrackerMixin->@Redirect::useFasterCollection()Ljava/util/Set; from mod lithium with priority 1000, already redirected by krypton.mixins.json:shared.network.microopt.TacsTrackedEntityMixin->@Redirect::construct$useFastutil()Ljava/util/Set; from mod krypton with priority 1000
+[17:21:02] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[17:21:02] [Server thread/INFO]: oliveh2003[/127.0.0.1:42196] logged in with entity id 159 at (-421.7939568720612, 63.9375, 328.76933054370807)
+[17:21:02] [Server thread/INFO]: oliveh2003 joined the game
+[17:28:00] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
+[17:29:13] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[17:30:12] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
+[17:34:54] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[17:35:06] [Server thread/INFO]: oliveh2003 has made the advancement [Sweet Dreams]
+[17:35:47] [Server thread/INFO]: oliveh2003 has made the advancement [Monster Hunter]
