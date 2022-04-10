@@ -135,3 +135,12 @@
 [09:06:40] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
 [09:06:40] [Server thread/INFO]: oliveh2003[/127.0.0.1:49990] logged in with entity id 109 at (-258.2348122589774, 74.0, 291.72077379537905)
 [09:06:40] [Server thread/INFO]: oliveh2003 joined the game
+[10:28:48] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[10:28:48] [Server thread/INFO]: oliveh2003 left the game
+[10:29:11] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[10:29:11] [Server thread/INFO]: oliveh2003[/127.0.0.1:49996] logged in with entity id 16168 at (-263.9754182217621, 65.0, 300.2634317184515)
+[10:29:11] [Server thread/INFO]: oliveh2003 joined the game
+[10:46:24] [Server thread/INFO]: [oliveh2003: Set the time to 0]
+[10:46:27] [Server thread/INFO]: [oliveh2003: Set the weather to clear]
+[10:52:35] [Server thread/INFO]: [oliveh2003: Set the time to 0]
+[10:52:37] [Server thread/INFO]: [oliveh2003: Set the weather to clear]
