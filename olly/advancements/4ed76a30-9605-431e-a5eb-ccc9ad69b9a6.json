@@ -425,6 +425,7 @@
       "apple": "2022-04-09 18:18:09 +0100",
       "mutton": "2022-02-21 13:03:49 +0000",
       "bread": "2022-02-21 12:50:05 +0000",
+      "golden_carrot": "2022-04-11 20:30:55 +0100",
       "cooked_salmon": "2022-04-11 10:39:04 +0100",
       "carrot": "2021-12-05 09:49:34 +0000"
     },
@@ -433,6 +434,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-02-21 12:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-04-11 20:22:08 +0100"
     },
     "done": true
   },
@@ -1129,6 +1136,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-02-21 12:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-04-11 20:22:08 +0100"
     },
     "done": true
   },

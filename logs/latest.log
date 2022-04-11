@@ -135,3 +135,16 @@
 [16:55:52] [Server thread/INFO]: Time elapsed: 2237 ms
 [16:55:52] [Server thread/INFO]: Done (2.429s)! For help, type "help"
 [16:55:52] [dimthread_overworld/WARN]: @Redirect conflict. Skipping lithium.mixins.json:alloc.entity_tracker.EntityTrackerMixin->@Redirect::useFasterCollection()Ljava/util/Set; from mod lithium with priority 1000, already redirected by krypton.mixins.json:shared.network.microopt.TacsTrackedEntityMixin->@Redirect::construct$useFastutil()Ljava/util/Set; from mod krypton with priority 1000
+[20:20:55] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[20:20:55] [Server thread/INFO]: oliveh2003[/127.0.0.1:35872] logged in with entity id 123 at (-387.12776389976636, 63.0, 337.07772528099497)
+[20:20:55] [Server thread/INFO]: oliveh2003 joined the game
+[20:27:45] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[20:27:45] [Server thread/INFO]: oliveh2003 left the game
+[20:28:49] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[20:28:49] [Server thread/INFO]: oliveh2003[/127.0.0.1:35876] logged in with entity id 2346 at (-755.2731868313545, 83.0, 387.6086365828296)
+[20:28:49] [Server thread/INFO]: oliveh2003 joined the game
+[20:33:30] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[20:33:30] [Server thread/INFO]: oliveh2003 left the game
+[20:34:08] [User Authenticator #3/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[20:34:09] [Server thread/INFO]: oliveh2003[/127.0.0.1:35880] logged in with entity id 4187 at (-1027.4722962393437, 63.0, 405.3730302839222)
+[20:34:09] [Server thread/INFO]: oliveh2003 joined the game
