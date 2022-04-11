@@ -1,5 +1,5 @@
-[15:58:05] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.13.3
-[15:58:05] [main/INFO]: Loading 71 mods:
+[16:55:44] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.13.3
+[16:55:44] [main/INFO]: Loading 71 mods:
 	- alternatecurrent 1.1.0
 	- c2me 0.2.0+alpha.7.12
 	- c2me-base 0.2.0+alpha.7.12 via c2me
@@ -71,68 +71,67 @@
 	- recipecache 0.2.1-1.17.1
 	- spark 1.8.17
 	- starlight 1.0.2+fabric.89b8d9f
-[15:58:05] [main/WARN]: Mod `com_github_wearblackallday_javautils` (bd58640372) does not respect SemVer - comparison support is limited.
-[15:58:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft/libraries/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[15:58:05] [main/INFO]: Compatibility level set to JAVA_16
-[15:58:05] [main/INFO]: Compatibility level set to JAVA_17
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[15:58:05] [main/INFO]: Disabling config generalOptimizations.doMidTickChunkTasks: Incompatible with dimthread@1.2.6 (*) (defined in c2me)
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[15:58:05] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.threading.scheduling.mixin
-[15:58:05] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
-[15:58:05] [main/INFO]: Loaded configuration file for Lithium: 100 options available, 2 override(s) found
-[15:58:05] [main/WARN]: Mixin malte0811.ferritecore.mixin.threaddetec.PalettedContainerMixin is disabled automatically as lithium is installed
-[15:58:05] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[15:58:05] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
-[15:58:07] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=3 on fabric-lifecycle-events-v1.mixins.json:server.WorldChunkMixin::handler$zhe000$onLoadBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[15:58:08] [main/INFO]: Alternate Current 1.1.0 has been initialized!
-[15:58:08] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[15:58:08] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[15:58:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:58:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:58:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:58:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:58:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:58:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:58:09] [Worker-Main-8/INFO]: Loaded 7 recipes
-[15:58:10] [Worker-Main-8/INFO]: Loaded 1141 advancements
-[15:58:10] [main/INFO]: Applied 0 biome modifications to 0 of 61 new biomes in 1.467 ms
-[15:58:10] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[15:58:10] [Server thread/INFO]: Loading properties
-[15:58:10] [Server thread/INFO]: Default game type: SURVIVAL
-[15:58:10] [Server thread/INFO]: Generating keypair
-[15:58:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:58:10] [Server thread/INFO]: Using epoll channel type
-[15:58:10] [Server thread/INFO]: Preparing level "olly"
-[15:58:10] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
-[15:58:10] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
-[15:58:11] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
-[15:58:11] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
-[15:58:11] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
-[15:58:11] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
-[15:58:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:58:11] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[15:58:11] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[15:58:12] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[15:58:12] [C2ME worker #1/INFO]: Preparing spawn area: 25%
-[15:58:13] [C2ME worker #1/INFO]: Preparing spawn area: 48%
-[15:58:13] [C2ME worker #1/INFO]: Preparing spawn area: 97%
-[15:58:13] [Server thread/INFO]: Time elapsed: 2544 ms
-[15:58:13] [Server thread/INFO]: Done (2.727s)! For help, type "help"
-[15:58:13] [dimthread_overworld/WARN]: @Redirect conflict. Skipping lithium.mixins.json:alloc.entity_tracker.EntityTrackerMixin->@Redirect::useFasterCollection()Ljava/util/Set; from mod lithium with priority 1000, already redirected by krypton.mixins.json:shared.network.microopt.TacsTrackedEntityMixin->@Redirect::construct$useFastutil()Ljava/util/Set; from mod krypton with priority 1000
+[16:55:44] [main/WARN]: Mod `com_github_wearblackallday_javautils` (bd58640372) does not respect SemVer - comparison support is limited.
+[16:55:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft/libraries/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[16:55:44] [main/INFO]: Compatibility level set to JAVA_16
+[16:55:44] [main/INFO]: Compatibility level set to JAVA_17
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[16:55:44] [main/INFO]: Disabling config generalOptimizations.doMidTickChunkTasks: Incompatible with dimthread@1.2.6 (*) (defined in c2me)
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[16:55:44] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.threading.scheduling.mixin
+[16:55:44] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[16:55:44] [main/INFO]: Loaded configuration file for Lithium: 100 options available, 2 override(s) found
+[16:55:44] [main/WARN]: Mixin malte0811.ferritecore.mixin.threaddetec.PalettedContainerMixin is disabled automatically as lithium is installed
+[16:55:44] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[16:55:44] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
+[16:55:46] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=3 on fabric-lifecycle-events-v1.mixins.json:server.WorldChunkMixin::handler$zhe000$onLoadBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16:55:47] [main/INFO]: Alternate Current 1.1.0 has been initialized!
+[16:55:47] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[16:55:47] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[16:55:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:55:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:55:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:55:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:55:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:55:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:55:48] [Worker-Main-1/INFO]: Loaded 7 recipes
+[16:55:48] [Worker-Main-1/INFO]: Loaded 1141 advancements
+[16:55:49] [main/INFO]: Applied 0 biome modifications to 0 of 61 new biomes in 1.569 ms
+[16:55:49] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[16:55:49] [Server thread/INFO]: Loading properties
+[16:55:49] [Server thread/INFO]: Default game type: SURVIVAL
+[16:55:49] [Server thread/INFO]: Generating keypair
+[16:55:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:55:49] [Server thread/INFO]: Using epoll channel type
+[16:55:49] [Server thread/INFO]: Preparing level "olly"
+[16:55:49] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
+[16:55:49] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
+[16:55:50] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
+[16:55:50] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
+[16:55:50] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
+[16:55:50] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
+[16:55:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:55:50] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[16:55:50] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[16:55:51] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[16:55:51] [C2ME worker #1/INFO]: Preparing spawn area: 19%
+[16:55:52] [minecraft_overworld - Light/INFO]: Preparing spawn area: 76%
+[16:55:52] [Server thread/INFO]: Time elapsed: 2237 ms
+[16:55:52] [Server thread/INFO]: Done (2.429s)! For help, type "help"
+[16:55:52] [dimthread_overworld/WARN]: @Redirect conflict. Skipping lithium.mixins.json:alloc.entity_tracker.EntityTrackerMixin->@Redirect::useFasterCollection()Ljava/util/Set; from mod lithium with priority 1000, already redirected by krypton.mixins.json:shared.network.microopt.TacsTrackedEntityMixin->@Redirect::construct$useFastutil()Ljava/util/Set; from mod krypton with priority 1000
