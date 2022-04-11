@@ -197,3 +197,19 @@
 [11:29:54] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
 [11:30:34] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
 [11:30:52] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[11:48:15] [dimthread_overworld/INFO]: oliveh2003 was blown up by Creeper
+[11:48:19] [Server thread/WARN]: oliveh2003 moved too quickly! -388.16460767018134,54.5625,193.85269617124666
+[11:57:53] [dimthread_overworld/INFO]: oliveh2003 has reached the goal [Beaconator]
+[11:57:53] [dimthread_overworld/INFO]: oliveh2003 has made the advancement [Bring Home the Beacon]
+[12:02:29] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[12:02:29] [Server thread/INFO]: oliveh2003 left the game
+[12:06:53] [User Authenticator #4/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[12:06:53] [Server thread/INFO]: oliveh2003[/127.0.0.1:35862] logged in with entity id 21492 at (-282.2228371380406, 64.0, 319.6860152123105)
+[12:06:53] [Server thread/INFO]: oliveh2003 joined the game
+[12:07:25] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[12:07:25] [Server thread/INFO]: oliveh2003 left the game
+[12:14:19] [User Authenticator #5/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
+[12:14:20] [Server thread/INFO]: Tobywoby08[/192.168.0.1:51622] logged in with entity id 22317 at (-445.39251085233514, 57.0, 340.2595231100253)
+[12:14:20] [Server thread/INFO]: Tobywoby08 joined the game
+[12:14:50] [Server thread/INFO]: Tobywoby08 lost connection: Disconnected
+[12:14:50] [Server thread/INFO]: Tobywoby08 left the game
