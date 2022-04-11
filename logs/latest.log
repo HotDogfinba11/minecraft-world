@@ -148,3 +148,27 @@
 [20:34:08] [User Authenticator #3/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
 [20:34:09] [Server thread/INFO]: oliveh2003[/127.0.0.1:35880] logged in with entity id 4187 at (-1027.4722962393437, 63.0, 405.3730302839222)
 [20:34:09] [Server thread/INFO]: oliveh2003 joined the game
+[20:45:48] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[20:45:48] [Server thread/INFO]: oliveh2003 left the game
+[20:48:40] [User Authenticator #4/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[20:48:40] [Server thread/INFO]: oliveh2003[/127.0.0.1:35884] logged in with entity id 6953 at (-1117.9216106846698, 21.0, 331.65271876517227)
+[20:48:40] [Server thread/INFO]: oliveh2003 joined the game
+[21:05:33] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
+[21:06:25] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[21:11:59] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[21:11:59] [Server thread/INFO]: oliveh2003 left the game
+[21:12:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:12:55] [Server thread/INFO]: /game creative oliveh2003<--[HERE]
+[21:13:08] [Server thread/INFO]: No player was found
+[21:13:20] [Server thread/INFO]: No player was found
+[21:13:23] [User Authenticator #5/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[21:13:24] [Server thread/INFO]: oliveh2003[/127.0.0.1:35888] logged in with entity id 12228 at (-1195.2688537802421, -56.0, 226.69999998807907)
+[21:13:24] [Server thread/INFO]: oliveh2003 joined the game
+[21:13:27] [Server thread/INFO]: Set oliveh2003's game mode to Creative Mode
+[21:13:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:13:28] [Server thread/INFO]: <--[HERE]
+[21:14:07] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[21:17:31] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
+[21:19:02] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[21:19:57] [dimthread_overworld/INFO]: Villager class_1646['Villager'/12510, l='ServerLevel[world]', x=-1440.50, y=134.16, z=36.70] died, message: 'Villager froze to death'
+[21:21:37] [dimthread_overworld/INFO]: Villager class_1646['Villager'/12502, l='ServerLevel[world]', x=-1416.30, y=130.00, z=73.30] died, message: 'Villager froze to death'
