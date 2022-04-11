@@ -1,5 +1,5 @@
-[09:57:42] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.13.3
-[09:57:42] [main/INFO]: Loading 71 mods:
+[15:58:05] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.13.3
+[15:58:05] [main/INFO]: Loading 71 mods:
 	- alternatecurrent 1.1.0
 	- c2me 0.2.0+alpha.7.12
 	- c2me-base 0.2.0+alpha.7.12 via c2me
@@ -71,145 +71,68 @@
 	- recipecache 0.2.1-1.17.1
 	- spark 1.8.17
 	- starlight 1.0.2+fabric.89b8d9f
-[09:57:42] [main/WARN]: Mod `com_github_wearblackallday_javautils` (bd58640372) does not respect SemVer - comparison support is limited.
-[09:57:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft/libraries/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[09:57:42] [main/INFO]: Compatibility level set to JAVA_16
-[09:57:42] [main/INFO]: Compatibility level set to JAVA_17
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[09:57:42] [main/INFO]: Disabling config generalOptimizations.doMidTickChunkTasks: Incompatible with dimthread@1.2.6 (*) (defined in c2me)
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[09:57:42] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.threading.scheduling.mixin
-[09:57:42] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
-[09:57:42] [main/INFO]: Loaded configuration file for Lithium: 100 options available, 2 override(s) found
-[09:57:43] [main/WARN]: Mixin malte0811.ferritecore.mixin.threaddetec.PalettedContainerMixin is disabled automatically as lithium is installed
-[09:57:43] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[09:57:43] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
-[09:57:44] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=3 on fabric-lifecycle-events-v1.mixins.json:server.WorldChunkMixin::handler$zhe000$onLoadBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[09:57:45] [main/INFO]: Alternate Current 1.1.0 has been initialized!
-[09:57:45] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[09:57:45] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[09:57:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:57:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:57:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:57:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:57:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:57:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:57:46] [Worker-Main-15/INFO]: Loaded 7 recipes
-[09:57:47] [Worker-Main-15/INFO]: Loaded 1141 advancements
-[09:57:47] [main/INFO]: Applied 0 biome modifications to 0 of 61 new biomes in 1.546 ms
-[09:57:47] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[09:57:47] [Server thread/INFO]: Loading properties
-[09:57:47] [Server thread/INFO]: Default game type: SURVIVAL
-[09:57:47] [Server thread/INFO]: Generating keypair
-[09:57:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:57:47] [Server thread/INFO]: Using epoll channel type
-[09:57:47] [Server thread/INFO]: Preparing level "olly"
-[09:57:47] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
-[09:57:47] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
-[09:57:48] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
-[09:57:48] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
-[09:57:48] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
-[09:57:48] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
-[09:57:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:57:49] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[09:57:49] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[09:57:49] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[09:57:49] [C2ME worker #1/INFO]: Preparing spawn area: 14%
-[09:57:50] [C2ME worker #1/INFO]: Preparing spawn area: 47%
-[09:57:50] [Server thread/INFO]: Time elapsed: 2489 ms
-[09:57:50] [Server thread/INFO]: Done (2.671s)! For help, type "help"
-[09:57:50] [dimthread_overworld/WARN]: @Redirect conflict. Skipping lithium.mixins.json:alloc.entity_tracker.EntityTrackerMixin->@Redirect::useFasterCollection()Ljava/util/Set; from mod lithium with priority 1000, already redirected by krypton.mixins.json:shared.network.microopt.TacsTrackedEntityMixin->@Redirect::construct$useFastutil()Ljava/util/Set; from mod krypton with priority 1000
-[09:58:16] [Server thread/INFO]: Gamerule keepInventory is now set to: true
-[10:29:00] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[10:29:00] [Server thread/INFO]: oliveh2003[/127.0.0.1:35844] logged in with entity id 114 at (-14.812939497736389, 17.03552073367481, -19.237265623472883)
-[10:29:00] [Server thread/INFO]: oliveh2003 joined the game
-[10:29:20] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[10:29:24] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[10:29:53] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[10:30:41] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[10:30:41] [Server thread/INFO]: oliveh2003 left the game
-[10:30:57] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[10:30:57] [Server thread/INFO]: oliveh2003[/127.0.0.1:35850] logged in with entity id 1006 at (-444.6077002831032, 57.0, 338.9544157655854)
-[10:30:57] [Server thread/INFO]: oliveh2003 joined the game
-[10:31:19] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[10:33:09] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[10:33:09] [Server thread/INFO]: oliveh2003 left the game
-[10:33:55] [User Authenticator #3/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[10:33:55] [Server thread/INFO]: oliveh2003[/127.0.0.1:35856] logged in with entity id 1762 at (-434.95934711817307, 64.0, 339.2391015840948)
-[10:33:55] [Server thread/INFO]: oliveh2003 joined the game
-[10:40:39] [Server thread/INFO]: oliveh2003 has made the advancement [Hidden in the Depths]
-[10:41:48] [Server thread/INFO]: oliveh2003 went up in flames
-[10:55:16] [Server thread/INFO]: oliveh2003 has made the advancement [Diamonds!]
-[10:59:14] [Server thread/INFO]: oliveh2003 has made the advancement [Oh Shiny]
-[11:12:48] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[11:13:31] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[11:14:08] [Server thread/INFO]: [oliveh2003: Gave 1000 experience points to oliveh2003]
-[11:14:13] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:14] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:16] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:16] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:17] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:18] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:19] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:20] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:20] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:21] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:22] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:23] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:24] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:24] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:25] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:14:26] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:15:54] [Server thread/INFO]: oliveh2003 has made the advancement [Enchanter]
-[11:16:49] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:16:50] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:16:51] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:24:52] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:24:53] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:24:54] [Server thread/INFO]: [oliveh2003: Gave 100 experience points to oliveh2003]
-[11:27:11] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:27:12] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:27:22] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:27:23] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:27:24] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:27:24] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:27:25] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:27:25] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:28:34] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:28:46] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:29:28] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:29:54] [Server thread/INFO]: [oliveh2003: Gave 500 experience points to oliveh2003]
-[11:30:34] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[11:30:52] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[11:48:15] [dimthread_overworld/INFO]: oliveh2003 was blown up by Creeper
-[11:48:19] [Server thread/WARN]: oliveh2003 moved too quickly! -388.16460767018134,54.5625,193.85269617124666
-[11:57:53] [dimthread_overworld/INFO]: oliveh2003 has reached the goal [Beaconator]
-[11:57:53] [dimthread_overworld/INFO]: oliveh2003 has made the advancement [Bring Home the Beacon]
-[12:02:29] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[12:02:29] [Server thread/INFO]: oliveh2003 left the game
-[12:06:53] [User Authenticator #4/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[12:06:53] [Server thread/INFO]: oliveh2003[/127.0.0.1:35862] logged in with entity id 21492 at (-282.2228371380406, 64.0, 319.6860152123105)
-[12:06:53] [Server thread/INFO]: oliveh2003 joined the game
-[12:07:25] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[12:07:25] [Server thread/INFO]: oliveh2003 left the game
-[12:14:19] [User Authenticator #5/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
-[12:14:20] [Server thread/INFO]: Tobywoby08[/192.168.0.1:51622] logged in with entity id 22317 at (-445.39251085233514, 57.0, 340.2595231100253)
-[12:14:20] [Server thread/INFO]: Tobywoby08 joined the game
-[12:14:50] [Server thread/INFO]: Tobywoby08 lost connection: Disconnected
-[12:14:50] [Server thread/INFO]: Tobywoby08 left the game
+[15:58:05] [main/WARN]: Mod `com_github_wearblackallday_javautils` (bd58640372) does not respect SemVer - comparison support is limited.
+[15:58:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft/libraries/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[15:58:05] [main/INFO]: Compatibility level set to JAVA_16
+[15:58:05] [main/INFO]: Compatibility level set to JAVA_17
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[15:58:05] [main/INFO]: Disabling config generalOptimizations.doMidTickChunkTasks: Incompatible with dimthread@1.2.6 (*) (defined in c2me)
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[15:58:05] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.threading.scheduling.mixin
+[15:58:05] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[15:58:05] [main/INFO]: Loaded configuration file for Lithium: 100 options available, 2 override(s) found
+[15:58:05] [main/WARN]: Mixin malte0811.ferritecore.mixin.threaddetec.PalettedContainerMixin is disabled automatically as lithium is installed
+[15:58:05] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[15:58:05] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, krypton]) disables it and children
+[15:58:07] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=3 on fabric-lifecycle-events-v1.mixins.json:server.WorldChunkMixin::handler$zhe000$onLoadBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[15:58:08] [main/INFO]: Alternate Current 1.1.0 has been initialized!
+[15:58:08] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[15:58:08] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[15:58:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:58:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:58:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:58:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:58:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:58:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:58:09] [Worker-Main-8/INFO]: Loaded 7 recipes
+[15:58:10] [Worker-Main-8/INFO]: Loaded 1141 advancements
+[15:58:10] [main/INFO]: Applied 0 biome modifications to 0 of 61 new biomes in 1.467 ms
+[15:58:10] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[15:58:10] [Server thread/INFO]: Loading properties
+[15:58:10] [Server thread/INFO]: Default game type: SURVIVAL
+[15:58:10] [Server thread/INFO]: Generating keypair
+[15:58:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:58:10] [Server thread/INFO]: Using epoll channel type
+[15:58:10] [Server thread/INFO]: Preparing level "olly"
+[15:58:10] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
+[15:58:10] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
+[15:58:11] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
+[15:58:11] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
+[15:58:11] [Server thread/INFO]: [STDOUT]: Initializing stronghold positions, this may take a while
+[15:58:11] [Server thread/INFO]: [STDOUT]: Stronghold positions initialized
+[15:58:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:58:11] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[15:58:11] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[15:58:12] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[15:58:12] [C2ME worker #1/INFO]: Preparing spawn area: 25%
+[15:58:13] [C2ME worker #1/INFO]: Preparing spawn area: 48%
+[15:58:13] [C2ME worker #1/INFO]: Preparing spawn area: 97%
+[15:58:13] [Server thread/INFO]: Time elapsed: 2544 ms
+[15:58:13] [Server thread/INFO]: Done (2.727s)! For help, type "help"
+[15:58:13] [dimthread_overworld/WARN]: @Redirect conflict. Skipping lithium.mixins.json:alloc.entity_tracker.EntityTrackerMixin->@Redirect::useFasterCollection()Ljava/util/Set; from mod lithium with priority 1000, already redirected by krypton.mixins.json:shared.network.microopt.TacsTrackedEntityMixin->@Redirect::construct$useFastutil()Ljava/util/Set; from mod krypton with priority 1000
