@@ -1156,11 +1156,13 @@
       "minecraft:snowy_slopes": "2022-04-11 21:56:07 +0100",
       "minecraft:taiga": "2022-04-09 22:51:36 +0100",
       "minecraft:frozen_river": "2022-04-03 21:43:02 +0100",
+      "minecraft:birch_forest": "2022-04-12 16:00:26 +0100",
       "minecraft:windswept_hills": "2022-04-09 18:35:16 +0100",
       "minecraft:beach": "2022-04-03 21:42:38 +0100",
       "minecraft:dark_forest": "2022-04-09 18:36:15 +0100",
       "minecraft:river": "2021-11-30 20:57:42 +0000",
       "minecraft:snowy_plains": "2022-04-03 21:43:03 +0100",
+      "minecraft:stony_shore": "2022-04-12 16:06:04 +0100",
       "minecraft:snowy_taiga": "2022-04-03 21:42:52 +0100",
       "minecraft:dripstone_caves": "2022-04-10 09:26:16 +0100",
       "minecraft:grove": "2022-04-09 18:47:43 +0100",
@@ -1170,6 +1172,7 @@
       "minecraft:desert": "2022-04-03 21:54:11 +0100",
       "minecraft:windswept_forest": "2022-04-12 11:06:43 +0100",
       "minecraft:snowy_beach": "2022-04-03 21:42:53 +0100",
+      "minecraft:warm_ocean": "2022-04-12 16:09:43 +0100",
       "minecraft:old_growth_birch_forest": "2022-04-11 21:10:54 +0100",
       "minecraft:meadow": "2022-04-11 21:00:54 +0100",
       "minecraft:plains": "2021-11-30 20:57:28 +0000"
@@ -2268,6 +2271,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-02-21 12:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-04-12 15:40:39 +0100"
     },
     "done": true
   },
