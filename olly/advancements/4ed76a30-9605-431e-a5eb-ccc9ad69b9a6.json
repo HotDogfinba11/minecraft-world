@@ -571,6 +571,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-04-12 13:17:08 +0100",
       "minecraft:skeleton": "2022-04-09 17:46:30 +0100",
       "minecraft:ghast": "2022-04-12 10:26:23 +0100",
       "minecraft:magma_cube": "2022-04-12 10:26:32 +0100",
@@ -580,6 +581,7 @@
       "minecraft:cave_spider": "2022-04-11 21:09:56 +0100",
       "minecraft:piglin": "2022-04-10 12:34:32 +0100",
       "minecraft:enderman": "2022-04-10 09:17:53 +0100",
+      "minecraft:endermite": "2022-04-12 12:33:57 +0100",
       "minecraft:zombie": "2022-04-09 17:51:45 +0100",
       "minecraft:zombie_villager": "2022-04-11 11:39:49 +0100"
     },
@@ -660,6 +662,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-11 20:54:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-04-12 13:17:24 +0100"
     },
     "done": true
   },
