@@ -139,3 +139,33 @@
 [20:35:08] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
 [20:35:09] [Server thread/INFO]: oliveh2003[/127.0.0.1:42428] logged in with entity id 312 at (-51.368173095410754, 129.0, 32.5)
 [20:35:09] [Server thread/INFO]: oliveh2003 joined the game
+[20:57:42] [Server thread/INFO]: oliveh2003 tried to swim in lava
+[20:59:51] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
+[21:00:24] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[21:07:56] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[21:07:56] [Server thread/INFO]: oliveh2003 left the game
+[21:08:36] [User Authenticator #3/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[21:08:37] [Server thread/INFO]: oliveh2003[/127.0.0.1:42434] logged in with entity id 4694 at (-59.7782976024588, 253.0, -58.36749233270556)
+[21:08:37] [Server thread/INFO]: oliveh2003 joined the game
+[21:26:40] [Server thread/INFO]: oliveh2003 fell from a high place
+[21:27:34] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[21:27:34] [Server thread/INFO]: oliveh2003 left the game
+[21:27:36] [User Authenticator #4/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[21:27:36] [Server thread/INFO]: oliveh2003[/127.0.0.1:42436] logged in with entity id 6200 at (-50.82312043176281, 129.0, 32.5)
+[21:27:36] [Server thread/INFO]: oliveh2003 joined the game
+[21:27:39] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[21:27:39] [Server thread/INFO]: oliveh2003 left the game
+[21:28:21] [User Authenticator #5/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[21:28:21] [Server thread/INFO]: oliveh2003[/127.0.0.1:42440] logged in with entity id 6266 at (-50.82312043176281, 129.0, 32.5)
+[21:28:21] [Server thread/INFO]: oliveh2003 joined the game
+[21:29:05] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
+[21:29:34] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[21:35:26] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
+[21:35:51] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[21:36:14] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
+[21:36:27] [Server thread/INFO]: oliveh2003 has reached the goal [Hired Help]
+[21:37:00] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[21:37:45] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
+[21:40:17] [Server thread/INFO]: [oliveh2003: The difficulty has been set to Peaceful]
+[21:45:12] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[21:51:09] [Server thread/INFO]: [oliveh2003: The difficulty has been set to Normal]
