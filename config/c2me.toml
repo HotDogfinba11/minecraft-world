@@ -24,8 +24,6 @@ globalExecutorParallelism = "default"
 	#  
 	# Incompatible with Dimensional Threading (dimthread)
 	# 
-	# Set to false for the following reasons: 
-	# Incompatible with dimthread@1.2.6 (*) (defined in c2me) 
 	doMidTickChunkTasks = "default"
 	# (Default: true) Whether to let async chunk request no longer block server thread
 	# (may cause incompatibility with other mods)
