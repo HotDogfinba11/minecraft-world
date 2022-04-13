@@ -169,3 +169,65 @@
 [15:23:19] [Server thread/INFO]: The difficulty did not change; it is already set to normal
 [15:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-62, y=81, z=0} class_2338{x=-62, y=81, z=1}
 [15:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-62, y=81, z=0} class_2338{x=-62, y=81, z=1}
+[15:52:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=79, y=89, z=-122} class_2338{x=78, y=88, z=-122}
+[15:52:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=79, y=89, z=-122} class_2338{x=78, y=88, z=-122}
+[15:52:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=79, y=89, z=-122} class_2338{x=78, y=88, z=-122}
+[15:52:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=79, y=89, z=-122} class_2338{x=78, y=88, z=-122}
+[15:52:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=79, y=89, z=-122} class_2338{x=78, y=88, z=-122}
+[15:52:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=79, y=89, z=-122} class_2338{x=78, y=88, z=-122}
+[15:52:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=79, y=89, z=-122} class_2338{x=78, y=88, z=-122}
+[15:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=80, y=90, z=-125} class_2338{x=81, y=89, z=-124}
+[15:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=80, y=90, z=-125} class_2338{x=81, y=89, z=-125}
+[15:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=80, y=90, z=-125} class_2338{x=81, y=89, z=-125}
+[15:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=80, y=90, z=-125} class_2338{x=81, y=89, z=-125}
+[15:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=80, y=90, z=-125} class_2338{x=81, y=89, z=-125}
+[15:52:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=96, y=89, z=-135} class_2338{x=96, y=90, z=-135}
+[15:54:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=153, y=47, z=-283} class_2338{x=153, y=45, z=-282}
+[15:54:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=153, y=47, z=-283} class_2338{x=153, y=45, z=-282}
+[15:54:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=153, y=47, z=-283} class_2338{x=153, y=45, z=-282}
+[15:54:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=153, y=47, z=-283} class_2338{x=153, y=45, z=-282}
+[15:54:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=153, y=49, z=-286} class_2338{x=153, y=50, z=-285}
+[15:54:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=153, y=49, z=-286} class_2338{x=153, y=50, z=-285}
+[15:55:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=189, y=55, z=-391} class_2338{x=187, y=54, z=-391}
+[15:55:21] [Server thread/INFO]: [oliveh2003: Teleported oliveh2003 to 304.500000, 54.000000, -207.500000]
+[15:55:21] [Server thread/WARN]: oliveh2003 moved too quickly! 116.80000001192093,0.0,183.04895574559663
+[15:55:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=294, y=37, z=-203} class_2338{x=295, y=36, z=-203}
+[15:55:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=294, y=37, z=-203} class_2338{x=295, y=36, z=-203}
+[15:55:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=294, y=37, z=-203} class_2338{x=295, y=36, z=-203}
+[15:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=295, y=40, z=-197} class_2338{x=295, y=39, z=-198}
+[15:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=295, y=40, z=-197} class_2338{x=295, y=39, z=-198}
+[15:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=295, y=40, z=-197} class_2338{x=295, y=39, z=-198}
+[15:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=295, y=40, z=-197} class_2338{x=295, y=39, z=-198}
+[15:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=295, y=40, z=-197} class_2338{x=295, y=39, z=-198}
+[15:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=295, y=40, z=-197} class_2338{x=295, y=39, z=-198}
+[15:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=295, y=40, z=-197} class_2338{x=295, y=39, z=-198}
+[15:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=295, y=40, z=-197} class_2338{x=295, y=39, z=-198}
+[15:55:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=295, y=40, z=-197} class_2338{x=295, y=39, z=-198}
+[15:56:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=292, y=42, z=-193} class_2338{x=293, y=43, z=-193}
+[15:56:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=292, y=42, z=-193} class_2338{x=293, y=43, z=-193}
+[15:56:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=292, y=42, z=-193} class_2338{x=293, y=43, z=-193}
+[15:56:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=292, y=42, z=-193} class_2338{x=293, y=43, z=-193}
+[15:56:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=293, y=42, z=-191} class_2338{x=294, y=43, z=-194}
+[15:56:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=293, y=42, z=-191} class_2338{x=294, y=43, z=-194}
+[15:56:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=293, y=42, z=-191} class_2338{x=294, y=43, z=-194}
+[15:56:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=293, y=42, z=-191} class_2338{x=294, y=43, z=-194}
+[15:56:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=293, y=42, z=-191} class_2338{x=294, y=43, z=-194}
+[15:56:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=293, y=42, z=-191} class_2338{x=294, y=43, z=-194}
+[15:56:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=294, y=51, z=-182} class_2338{x=294, y=49, z=-181}
+[15:56:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=294, y=51, z=-182} class_2338{x=294, y=49, z=-181}
+[15:56:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=294, y=51, z=-182} class_2338{x=294, y=49, z=-181}
+[15:57:47] [Server thread/INFO]: oliveh2003 has made the advancement [Into Fire]
+[16:01:31] [Server thread/INFO]: oliveh2003 tried to swim in lava
+[16:11:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-412, y=0, z=1869} class_2338{x=-412, y=-2, z=1869}
+[16:11:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-412, y=-3, z=1869} class_2338{x=-412, y=-2, z=1869}
+[16:13:09] [Server thread/INFO]: oliveh2003 has made the advancement [Eye Spy]
+[16:17:20] [Server thread/INFO]: oliveh2003 has made the advancement [The End?]
+[16:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6611ms or 132 ticks behind
+[16:17:31] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:17:32] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[16:17:47] [C2ME worker #2/WARN]: Failed to retrieve ChunkHolder for chunk [-28, 120], assuming load level to 0
+[16:17:47] [C2ME worker #2/WARN]: Failed to retrieve ChunkHolder for chunk [-28, 120], assuming load level to 0
+[16:27:13] [Server thread/INFO]: oliveh2003 has made the advancement [Free the End]
+[16:28:08] [Server thread/INFO]: oliveh2003 has reached the goal [The Next Generation]
+[16:33:27] [Server thread/INFO]: oliveh2003 has made the advancement [Remote Getaway]
+[16:33:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
