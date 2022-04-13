@@ -143,3 +143,29 @@
 [13:49:12] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
 [13:49:12] [Server thread/INFO]: oliveh2003 left the game
 [13:49:21] [Server thread/WARN]: Tobywoby08 moved too quickly! -0.8947195531626235,-0.6044241013266856,-10.396405063654388
+[14:37:58] [Server thread/INFO]: Tobywoby08 fell from a high place
+[14:42:27] [User Authenticator #3/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[14:42:27] [Server thread/INFO]: oliveh2003[/127.0.0.1:36168] logged in with entity id 33370 at (-418.24357497463603, 64.0, 337.30570479323984)
+[14:42:27] [Server thread/INFO]: oliveh2003 joined the game
+[14:42:54] [Server thread/INFO]: Tobywoby08 has made the advancement [Enchanter]
+[14:43:29] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[14:43:29] [Server thread/INFO]: oliveh2003 left the game
+[14:44:02] [User Authenticator #4/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[14:44:02] [Server thread/INFO]: oliveh2003[/127.0.0.1:36176] logged in with entity id 33647 at (-434.5552566367763, 57.0, 345.5734098654357)
+[14:44:02] [Server thread/INFO]: oliveh2003 joined the game
+[14:44:39] [Server thread/INFO]: Tobywoby08 has made the advancement [Sweet Dreams]
+[14:47:13] [Server thread/INFO]: <oliveh2003> I could do with sharpness 4
+[14:47:18] [Server thread/INFO]: <Tobywoby08> ok
+[14:51:50] [Server thread/INFO]: oliveh2003 fell off a ladder
+[14:53:40] [Server thread/INFO]: Tobywoby08 lost connection: Disconnected
+[14:53:40] [Server thread/INFO]: Tobywoby08 left the game
+[14:55:44] [User Authenticator #5/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
+[14:55:44] [Server thread/INFO]: Tobywoby08[/192.168.0.1:54112] logged in with entity id 39651 at (-44.53838789306005, 222.0, -80.69999998807907)
+[14:55:44] [Server thread/INFO]: Tobywoby08 joined the game
+[14:56:05] [Server thread/INFO]: Tobywoby08 fell from a high place
+[14:56:16] [Server thread/INFO]: Tobywoby08 lost connection: Disconnected
+[14:56:16] [Server thread/INFO]: Tobywoby08 left the game
+[15:00:07] [Server thread/INFO]: oliveh2003 fell from a high place
+[15:23:19] [Server thread/INFO]: The difficulty did not change; it is already set to normal
+[15:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-62, y=81, z=0} class_2338{x=-62, y=81, z=1}
+[15:24:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-62, y=81, z=0} class_2338{x=-62, y=81, z=1}
