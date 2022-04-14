@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2022-04-14 10:15:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2022-04-11 20:54:04 +0100"
@@ -1012,6 +1018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-04-14 10:15:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2022-04-11 21:24:42 +0100"
@@ -1318,10 +1330,12 @@
       "minecraft:jagged_peaks": "2022-04-13 21:24:19 +0100",
       "minecraft:cold_ocean": "2022-04-03 21:42:36 +0100",
       "minecraft:forest": "2021-11-30 20:57:10 +0000",
+      "minecraft:lush_caves": "2022-04-13 21:35:24 +0100",
       "minecraft:deep_cold_ocean": "2022-04-13 16:10:12 +0100",
       "minecraft:frozen_ocean": "2022-04-03 21:42:56 +0100",
       "minecraft:desert": "2022-04-03 21:54:11 +0100",
       "minecraft:windswept_forest": "2022-04-12 11:06:43 +0100",
+      "minecraft:old_growth_spruce_taiga": "2022-04-13 21:35:26 +0100",
       "minecraft:snowy_beach": "2022-04-03 21:42:53 +0100",
       "minecraft:warm_ocean": "2022-04-12 16:09:43 +0100",
       "minecraft:frozen_peaks": "2022-04-13 20:51:49 +0100",
