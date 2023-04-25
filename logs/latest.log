@@ -1,80 +1,87 @@
-[21:52:25] [main/INFO]: Loading Minecraft 1.19.3 with Fabric Loader 0.14.14
-[21:52:25] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
-[21:52:25] [main/INFO]: Loading 45 mods:
-	- fabric-api 0.74.0+1.19.3
-	- fabric-api-base 0.4.21+70be179c85 via fabric-api
-	- fabric-api-lookup-api-v1 1.6.20+49abcf7e85 via fabric-api
-	- fabric-biome-api-v1 12.1.1+b5d379b085 via fabric-api
-	- fabric-block-api-v1 1.0.5+e022e5d185 via fabric-api
-	- fabric-command-api-v1 1.2.22+f71b366f85 via fabric-api
-	- fabric-command-api-v2 2.2.1+3fc4752e85 via fabric-api
-	- fabric-commands-v0 0.2.39+df3654b385 via fabric-api
-	- fabric-containers-v0 0.1.47+df3654b385 via fabric-api
-	- fabric-content-registries-v0 3.5.1+1d37d50285 via fabric-api
-	- fabric-convention-tags-v1 1.2.2+8e4e694f85 via fabric-api
-	- fabric-crash-report-info-v1 0.2.14+aeb40ebe85 via fabric-api
-	- fabric-data-generation-api-v1 11.3.0+40dc7a9485 via fabric-api
-	- fabric-dimensions-v1 2.1.42+00a2eb1085 via fabric-api
-	- fabric-entity-events-v1 1.5.7+b83334a085 via fabric-api
-	- fabric-events-interaction-v0 0.4.40+3baeb27a85 via fabric-api
-	- fabric-events-lifecycle-v0 0.2.44+df3654b385 via fabric-api
-	- fabric-game-rule-api-v1 1.0.30+99f9db8085 via fabric-api
-	- fabric-item-api-v1 2.1.10+312c329485 via fabric-api
-	- fabric-item-group-api-v1 2.1.12+1134c5b885 via fabric-api
-	- fabric-lifecycle-events-v1 2.2.10+23a79c8a85 via fabric-api
-	- fabric-loot-api-v2 1.1.20+75e9821185 via fabric-api
-	- fabric-loot-tables-v1 1.1.24+9e7660c685 via fabric-api
-	- fabric-message-api-v1 5.0.14+6ede1da985 via fabric-api
-	- fabric-mining-level-api-v1 2.1.31+49abcf7e85 via fabric-api
-	- fabric-networking-api-v1 1.2.17+4017a8cb85 via fabric-api
-	- fabric-networking-v0 0.3.34+df3654b385 via fabric-api
-	- fabric-object-builder-api-v1 5.4.1+eb2a3ba985 via fabric-api
-	- fabric-particles-v1 1.0.20+f1e4495b85 via fabric-api
-	- fabric-recipe-api-v1 1.0.1+5176f73d85 via fabric-api
-	- fabric-registry-sync-v0 2.0.5+1134c5b885 via fabric-api
-	- fabric-rendering-data-attachment-v1 0.3.25+afca2f3e85 via fabric-api
-	- fabric-rendering-fluids-v1 3.0.18+f1e4495b85 via fabric-api
-	- fabric-resource-conditions-api-v1 2.3.0+e63306e085 via fabric-api
-	- fabric-resource-loader-v0 0.10.5+a91e48b785 via fabric-api
-	- fabric-screen-handler-api-v1 1.3.13+99f9db8085 via fabric-api
-	- fabric-transfer-api-v1 2.1.15+ccd377ba85 via fabric-api
-	- fabric-transitive-access-wideners-v1 2.3.1+40dc7a9485 via fabric-api
-	- fabricloader 0.14.14
-	- ferritecore 5.1.0
-	- java 19
-	- lithium 0.10.4
-	- minecraft 1.19.3
-	- smoothboot 1.19-1.7.1
-	- starlight 1.1.1+fabric.ae22326
-[21:52:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[21:52:25] [main/INFO]: Compatibility level set to JAVA_16
-[21:52:25] [main/INFO]: Compatibility level set to JAVA_17
-[21:52:25] [main/INFO]: Loaded configuration file for Lithium: 106 options available, 1 override(s) found
-[21:52:25] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[21:52:26] [main/INFO]: Smooth Boot config initialized
-[21:52:29] [main/INFO]: Building unoptimized datafixer
-[21:52:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:52:31] [main/INFO]: Loaded 7 recipes
-[21:52:32] [main/INFO]: Loaded 1179 advancements
-[21:52:32] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 942.6 μs
-[21:52:32] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[21:52:32] [Server thread/INFO]: Loading properties
-[21:52:32] [Server thread/INFO]: Default game type: SURVIVAL
-[21:52:32] [Server thread/INFO]: Generating keypair
-[21:52:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:52:32] [Server thread/INFO]: Using default channel type
-[21:52:32] [Server thread/INFO]: Preparing level "olly"
-[21:52:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:52:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:52:37] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[21:52:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:52:37] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[21:52:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:52:37] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[21:52:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:52:37] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[21:52:37] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[21:52:38] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[21:52:38] [Worker-Main-15/INFO]: Preparing spawn area: 43%
-[21:52:38] [Server thread/INFO]: Time elapsed: 5232 ms
-[21:52:38] [Server thread/INFO]: Done (6.180s)! For help, type "help"
+[22:04:31] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
+[22:04:31] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[22:04:31] [main/INFO]: Loading 44 mods:
+	- chunky 1.3.74
+	- fabric-api 0.78.0+1.19.4
+	   |-- fabric-api-base 0.4.23+9ff28bcef4
+	   |-- fabric-api-lookup-api-v1 1.6.24+49abcf7ef4
+	   |-- fabric-biome-api-v1 13.0.6+348a9c64f4
+	   |-- fabric-block-api-v1 1.0.5+e022e5d1f4
+	   |-- fabric-blockrenderlayer-v1 1.1.33+c2e6f674f4
+	   |-- fabric-client-tags-api-v1 1.0.14+1134c5b8f4
+	   |-- fabric-command-api-v1 1.2.26+f71b366ff4
+	   |-- fabric-command-api-v2 2.2.5+e719b857f4
+	   |-- fabric-commands-v0 0.2.43+df3654b3f4
+	   |-- fabric-containers-v0 0.1.53+df3654b3f4
+	   |-- fabric-content-registries-v0 3.5.8+ae0966baf4
+	   |-- fabric-convention-tags-v1 1.4.0+9a7c5daaf4
+	   |-- fabric-crash-report-info-v1 0.2.14+aeb40ebef4
+	   |-- fabric-data-generation-api-v1 11.3.7+5da15ca1f4
+	   |-- fabric-dimensions-v1 2.1.44+7f87f8faf4
+	   |-- fabric-entity-events-v1 1.5.12+e45f7c65f4
+	   |-- fabric-events-interaction-v0 0.4.42+a1ccd7bff4
+	   |-- fabric-events-lifecycle-v0 0.2.51+df3654b3f4
+	   |-- fabric-game-rule-api-v1 1.0.32+a1ccd7bff4
+	   |-- fabric-item-api-v1 2.1.16+09a3510cf4
+	   |-- fabric-item-group-api-v1 3.0.4+043f9acff4
+	   |-- fabric-key-binding-api-v1 1.0.32+c477957ef4
+	   |-- fabric-keybindings-v0 0.2.30+df3654b3f4
+	   |-- fabric-lifecycle-events-v1 2.2.14+5da15ca1f4
+	   |-- fabric-loot-api-v2 1.1.26+75e98211f4
+	   |-- fabric-loot-tables-v1 1.1.30+9e7660c6f4
+	   |-- fabric-message-api-v1 5.1.0+1ee8be40f4
+	   |-- fabric-mining-level-api-v1 2.1.38+49abcf7ef4
+	   |-- fabric-models-v0 0.3.29+11ba9c3bf4
+	   |-- fabric-networking-api-v1 1.3.0+a6f3ccfaf4
+	   |-- fabric-networking-v0 0.3.40+df3654b3f4
+	   |-- fabric-object-builder-api-v1 7.0.2+63b515f4f4
+	   |-- fabric-particles-v1 1.0.22+f1e4495bf4
+	   |-- fabric-recipe-api-v1 1.0.7+a1ccd7bff4
+	   |-- fabric-registry-sync-v0 2.1.3+a383ab97f4
+	   |-- fabric-renderer-api-v1 2.2.4+81e8c576f4
+	   |-- fabric-renderer-indigo 1.1.0+81e8c576f4
+	   |-- fabric-renderer-registries-v1 3.2.37+df3654b3f4
+	   |-- fabric-rendering-data-attachment-v1 0.3.27+afca2f3ef4
+	   |-- fabric-rendering-fluids-v1 3.0.20+f1e4495bf4
+	   |-- fabric-rendering-v0 1.1.40+df3654b3f4
+	   |-- fabric-rendering-v1 2.1.0+8f878217f4
+	   |-- fabric-resource-conditions-api-v1 2.3.0+e6c7d4eef4
+	   |-- fabric-resource-loader-v0 0.11.1+1e1fb126f4
+	   |-- fabric-screen-api-v1 1.0.44+8c25edb4f4
+	   |-- fabric-screen-handler-api-v1 1.3.19+5da15ca1f4
+	   |-- fabric-sound-api-v1 1.0.8+75e98211f4
+	   |-- fabric-transfer-api-v1 3.1.0+d51205dbf4
+	   \-- fabric-transitive-access-wideners-v1 3.0.2+63b515f4f4
+	- fabricloader 0.14.19
+	- java 17
+	- lithium 0.11.1
+	- minecraft 1.19.4
+	- phosphor 0.8.1
+[22:04:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[22:04:31] [main/INFO]: Compatibility level set to JAVA_17
+[22:04:31] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 0 override(s) found
+[22:04:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:04:36] [main/INFO]: Loaded 7 recipes
+[22:04:36] [main/INFO]: Loaded 1179 advancements
+[22:04:36] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.069 ms
+[22:04:36] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[22:04:36] [Server thread/INFO]: Loading properties
+[22:04:36] [Server thread/INFO]: Default game type: SURVIVAL
+[22:04:36] [Server thread/INFO]: Generating keypair
+[22:04:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:04:36] [Server thread/INFO]: Using epoll channel type
+[22:04:36] [Server thread/INFO]: Preparing level "olly"
+[22:04:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:04:39] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:04:39] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[22:04:39] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:04:39] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[22:04:39] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[22:04:39] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[22:04:40] [Server thread/INFO]: Time elapsed: 2770 ms
+[22:04:40] [Server thread/INFO]: Done (3.475s)! For help, type "help"
+[22:05:06] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[22:05:06] [Server thread/INFO]: oliveh2003[/127.0.0.1:35760] logged in with entity id 28 at (-418.5823929930098, 64.0, 331.2587583241848)
+[22:05:06] [Server thread/INFO]: oliveh2003 joined the game
+[22:05:29] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[22:05:29] [Server thread/INFO]: oliveh2003 left the game
