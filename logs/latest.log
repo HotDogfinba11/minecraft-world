@@ -208,3 +208,24 @@
 [14:54:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=64, z=316} class_2338{x=-433, y=65, z=317}
 [14:59:18] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
 [14:59:18] [Server thread/INFO]: oliveh2003 left the game
+[15:29:13] [User Authenticator #6/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
+[15:29:13] [Server thread/INFO]: Tobywoby08[/192.168.1.1:54044] logged in with entity id 75951 at (-348.7628737920164, 63.0, 348.01776139928296)
+[15:29:13] [Server thread/INFO]: Tobywoby08 joined the game
+[15:34:46] [Server thread/INFO]: Tobywoby08 lost connection: Disconnected
+[15:34:46] [Server thread/INFO]: Tobywoby08 left the game
+[18:59:03] [User Authenticator #7/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[18:59:03] [Server thread/INFO]: oliveh2003[/127.0.0.1:37860] logged in with entity id 77419 at (-444.5, 71.0, 342.5)
+[18:59:03] [Server thread/INFO]: oliveh2003 joined the game
+[18:59:12] [User Authenticator #8/INFO]: UUID of player oliverw2003 is 5cecbe48-d6d8-4eff-8f66-0645850a561e
+[18:59:12] [Server thread/INFO]: oliverw2003[/192.168.86.250:49838] logged in with entity id 77709 at (-444.5, 71.0, 359.5)
+[18:59:12] [Server thread/INFO]: oliverw2003 joined the game
+[19:01:37] [Server thread/INFO]: Locating element minecraft:jungle took 572 ms
+[19:22:41] [Server thread/INFO]: oliverw2003 was slain by oliveh2003
+[19:23:59] [Server thread/INFO]: oliverw2003 was shot by oliveh2003
+[19:24:18] [Server thread/INFO]: oliverw2003 was slain by oliveh2003
+[19:25:44] [Server thread/INFO]: [oliveh2003: Set the time to 1000]
+[19:27:41] [Server thread/INFO]: oliverw2003 was slain by oliveh2003
+[19:29:16] [Server thread/INFO]: oliverw2003 lost connection: Disconnected
+[19:29:16] [Server thread/INFO]: oliverw2003 left the game
+[19:29:38] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[19:29:38] [Server thread/INFO]: oliveh2003 left the game
