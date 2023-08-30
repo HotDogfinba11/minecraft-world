@@ -193,3 +193,18 @@
 [11:05:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-265, y=58, z=301} class_2338{x=-265, y=60, z=300}
 [11:44:02] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
 [11:44:30] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[13:28:58] [Server thread/INFO]: oliveh2003 was killed
+[13:28:58] [Server thread/INFO]: [oliveh2003: Killed oliveh2003]
+[13:35:06] [Server thread/INFO]: oliveh2003 was killed
+[13:35:06] [Server thread/INFO]: [oliveh2003: Killed oliveh2003]
+[13:45:57] [Server thread/INFO]: [oliveh2003: Set the time to 1000]
+[14:15:43] [Server thread/INFO]: oliveh2003 was slain by Zombie
+[14:17:42] [Server thread/WARN]: oliveh2003 moved too quickly! -7.800000011920929,8.0,18.833952452642734
+[14:17:42] [Server thread/WARN]: oliveh2003 moved too quickly! -7.800000011920929,8.0,18.833952452642734
+[14:29:08] [Server thread/INFO]: oliveh2003 was slain by Zombie
+[14:34:57] [Server thread/WARN]: oliveh2003 moved too quickly! -15.14430048463322,8.0,16.80000001192093
+[14:34:57] [Server thread/WARN]: oliveh2003 moved too quickly! -15.14430048463322,8.0,16.80000001192093
+[14:41:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-366, y=70, z=417} class_2338{x=-434, y=69, z=323}
+[14:54:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=64, z=316} class_2338{x=-433, y=65, z=317}
+[14:59:18] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[14:59:18] [Server thread/INFO]: oliveh2003 left the game
