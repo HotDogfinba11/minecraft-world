@@ -191,3 +191,5 @@
 [11:05:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-266, y=57, z=300} class_2338{x=-266, y=58, z=300}
 [11:05:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-266, y=57, z=300} class_2338{x=-266, y=58, z=300}
 [11:05:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-265, y=58, z=301} class_2338{x=-265, y=60, z=300}
+[11:44:02] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
+[11:44:30] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
