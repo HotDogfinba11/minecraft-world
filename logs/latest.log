@@ -1,5 +1,5 @@
-[08:17:26] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.14.22
-[08:17:26] [main/INFO]: Loading 42 mods:
+[09:00:26] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.14.22
+[09:00:26] [main/INFO]: Loading 42 mods:
 	- fabric-api 0.87.0+1.20.1
 	   |-- fabric-api-base 0.4.30+7abfd51577
 	   |-- fabric-api-lookup-api-v1 1.6.35+4d8536c977
@@ -55,177 +55,37 @@
 	- java 17
 	- lithium 0.11.2
 	- minecraft 1.20.1
-[08:17:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[08:17:26] [main/INFO]: Compatibility level set to JAVA_16
-[08:17:26] [main/INFO]: Compatibility level set to JAVA_17
-[08:17:27] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 0 override(s) found
-[08:17:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:17:31] [main/INFO]: Loaded 7 recipes
-[08:17:31] [main/INFO]: Loaded 1271 advancements
-[08:17:31] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.020 ms
-[08:17:31] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[08:17:31] [Server thread/INFO]: Loading properties
-[08:17:31] [Server thread/INFO]: Default game type: SURVIVAL
-[08:17:31] [Server thread/INFO]: Generating keypair
-[08:17:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:17:32] [Server thread/INFO]: Using epoll channel type
-[08:17:32] [Server thread/INFO]: Preparing level "olly"
-[08:17:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:17:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[08:17:33] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[08:17:33] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[08:17:34] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[08:17:34] [Worker-Main-7/INFO]: Preparing spawn area: 11%
-[08:17:35] [Server thread/INFO]: Time elapsed: 2315 ms
-[08:17:35] [Server thread/INFO]: Done (2.924s)! For help, type "help"
-[08:17:38] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[08:17:38] [Server thread/INFO]: oliveh2003[/127.0.0.1:59370] logged in with entity id 10 at (-408.40194722665694, 68.0, 405.6471158498461)
-[08:17:38] [Server thread/INFO]: oliveh2003 joined the game
-[08:38:57] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[08:39:12] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[08:40:47] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[08:41:39] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[08:45:47] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[08:46:12] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[08:47:15] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[08:48:11] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[08:51:50] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[08:52:00] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[08:52:24] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[08:52:33] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[08:53:41] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[08:56:12] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[08:57:48] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[08:58:05] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[08:58:07] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[08:58:24] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[08:58:30] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[08:58:36] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[08:58:45] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[08:59:01] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[08:59:07] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[08:59:19] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[08:59:32] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[09:00:53] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[09:01:49] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[09:04:30] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[09:05:00] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[09:05:09] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[09:05:14] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[09:05:33] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[09:05:37] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[09:05:40] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[09:05:46] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[09:05:55] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[09:06:06] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[09:06:26] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[09:06:45] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[09:09:02] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[09:09:15] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[09:24:36] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[09:25:10] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[09:27:25] [Server thread/INFO]: oliveh2003 was killed
-[09:27:25] [Server thread/INFO]: [oliveh2003: Killed oliveh2003]
-[09:28:23] [Server thread/INFO]: [oliveh2003: Teleported oliveh2003 to -299.500000, 95.000000, -299.500000]
-[09:28:23] [Server thread/WARN]: oliveh2003 moved too quickly! -284.7696019624136,0.0,-82.75407339512941
-[09:28:23] [Server thread/WARN]: oliveh2003 moved too quickly! -284.7696019624136,0.0,-82.75407339512941
-[09:28:23] [Server thread/WARN]: oliveh2003 moved too quickly! -284.7696019624136,0.0,-82.75407339512941
-[09:28:32] [Server thread/INFO]: [oliveh2003: Teleported oliveh2003 to -299.500000, 60.911500, 300.500000]
-[09:28:32] [Server thread/WARN]: oliveh2003 moved too quickly! 0.0,-0.0252083979691875,600.0
-[09:28:32] [Server thread/WARN]: oliveh2003 moved too quickly! 0.0,0.0,600.0
-[09:28:32] [Server thread/WARN]: oliveh2003 moved too quickly! 0.0,0.0,600.0
-[09:28:32] [Server thread/WARN]: oliveh2003 moved too quickly! 0.0,0.0,600.0
-[09:28:32] [Server thread/WARN]: oliveh2003 moved too quickly! 0.0,0.0,600.0
-[09:28:32] [Server thread/WARN]: oliveh2003 moved too quickly! 0.0,0.0,600.0
-[09:28:32] [Server thread/WARN]: oliveh2003 moved too quickly! 0.0,0.0,600.0
-[09:28:32] [Server thread/WARN]: oliveh2003 moved too quickly! 0.0,0.0,600.0
-[09:28:42] [Server thread/INFO]: oliveh2003 was killed
-[09:28:42] [Server thread/INFO]: [oliveh2003: Killed oliveh2003]
-[09:31:49] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[09:32:30] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[09:34:12] [User Authenticator #2/INFO]: UUID of player oliverw2003 is 5cecbe48-d6d8-4eff-8f66-0645850a561e
-[09:34:13] [Server thread/INFO]: oliverw2003[/192.168.86.250:49474] logged in with entity id 15755 at (-447.27004031856535, 71.0, 360.4230158100309)
-[09:34:13] [Server thread/INFO]: oliverw2003 joined the game
-[09:34:32] [Server thread/INFO]: oliverw2003 lost connection: Disconnected
-[09:34:32] [Server thread/INFO]: oliverw2003 left the game
-[09:34:39] [User Authenticator #3/INFO]: UUID of player oliverw2003 is 5cecbe48-d6d8-4eff-8f66-0645850a561e
-[09:34:39] [Server thread/INFO]: oliverw2003[/192.168.86.250:49477] logged in with entity id 15854 at (-451.06457153418955, 70.0, 351.922684785731)
-[09:34:39] [Server thread/INFO]: oliverw2003 joined the game
-[09:34:48] [Server thread/INFO]: oliverw2003 lost connection: Disconnected
-[09:34:48] [Server thread/INFO]: oliverw2003 left the game
-[09:35:27] [User Authenticator #4/INFO]: UUID of player oliverw2003 is 5cecbe48-d6d8-4eff-8f66-0645850a561e
-[09:35:27] [Server thread/INFO]: oliverw2003[/192.168.86.250:49505] logged in with entity id 16003 at (-451.06457153418955, 70.0, 351.922684785731)
-[09:35:27] [Server thread/INFO]: oliverw2003 joined the game
-[09:38:09] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
-[09:38:24] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[09:40:25] [Server thread/INFO]: Locating element minecraft:fortress took 8 ms
-[09:47:57] [Server thread/INFO]: oliverw2003 fell from a high place
-[09:48:51] [Server thread/INFO]: [oliveh2003: Teleported oliverw2003 to oliveh2003]
-[09:48:51] [Server thread/WARN]: oliverw2003 moved too quickly! -92.48032781085168,-34.0,435.8228329743667
-[09:48:51] [Server thread/WARN]: oliverw2003 moved too quickly! -92.48032781085168,-34.0,435.8228329743667
-[09:50:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-140, y=74, z=483} class_2338{x=-140, y=73, z=483}
-[09:50:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-136, y=59, z=475} class_2338{x=-137, y=58, z=475}
-[09:50:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-136, y=59, z=475} class_2338{x=-137, y=58, z=475}
-[09:50:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-136, y=59, z=475} class_2338{x=-137, y=58, z=475}
-[09:50:35] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
-[09:50:39] [Server thread/INFO]: [oliveh2003: Teleported oliveh2003 to -143.500000, 60.875000, 480.500000]
-[09:51:29] [Server thread/INFO]: [oliveh2003: Teleported oliverw2003 to oliveh2003]
-[09:51:29] [Server thread/WARN]: oliverw2003 moved too quickly! -2.6670289284563182,-11.125,-2.066412078321946
-[09:51:55] [Server thread/INFO]: oliverw2003 has made the advancement [A Terrible Fortress]
-[10:03:58] [Server thread/INFO]: oliveh2003 was killed
-[10:03:58] [Server thread/INFO]: [oliveh2003: Killed oliveh2003]
-[10:04:06] [Server thread/INFO]: oliverw2003 was killed
-[10:04:06] [Server thread/INFO]: [oliverw2003: Killed oliverw2003]
-[10:04:17] [Server thread/INFO]: [oliveh2003: Teleported oliveh2003 to oliverw2003]
-[10:18:59] [Server thread/INFO]: oliverw2003 lost connection: Disconnected
-[10:18:59] [Server thread/INFO]: oliverw2003 left the game
-[10:33:26] [User Authenticator #5/INFO]: UUID of player oliverw2003 is 5cecbe48-d6d8-4eff-8f66-0645850a561e
-[10:33:26] [Server thread/INFO]: oliverw2003[/192.168.86.250:49522] logged in with entity id 28758 at (-362.91558337735717, 64.0, 347.535478337963)
-[10:33:26] [Server thread/INFO]: oliverw2003 joined the game
-[10:36:40] [Server thread/INFO]: oliverw2003 has made the advancement [Acquire Hardware]
-[10:52:47] [Server thread/INFO]: oliverw2003 lost connection: Disconnected
-[10:52:47] [Server thread/INFO]: oliverw2003 left the game
-[10:53:47] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[10:54:02] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[11:05:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-266, y=57, z=300} class_2338{x=-266, y=58, z=300}
-[11:05:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-266, y=57, z=300} class_2338{x=-266, y=58, z=300}
-[11:05:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-266, y=57, z=300} class_2338{x=-266, y=58, z=300}
-[11:05:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-265, y=58, z=301} class_2338{x=-265, y=60, z=300}
-[11:44:02] [Server thread/INFO]: [oliveh2003: Set own game mode to Spectator Mode]
-[11:44:30] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
-[13:28:58] [Server thread/INFO]: oliveh2003 was killed
-[13:28:58] [Server thread/INFO]: [oliveh2003: Killed oliveh2003]
-[13:35:06] [Server thread/INFO]: oliveh2003 was killed
-[13:35:06] [Server thread/INFO]: [oliveh2003: Killed oliveh2003]
-[13:45:57] [Server thread/INFO]: [oliveh2003: Set the time to 1000]
-[14:15:43] [Server thread/INFO]: oliveh2003 was slain by Zombie
-[14:17:42] [Server thread/WARN]: oliveh2003 moved too quickly! -7.800000011920929,8.0,18.833952452642734
-[14:17:42] [Server thread/WARN]: oliveh2003 moved too quickly! -7.800000011920929,8.0,18.833952452642734
-[14:29:08] [Server thread/INFO]: oliveh2003 was slain by Zombie
-[14:34:57] [Server thread/WARN]: oliveh2003 moved too quickly! -15.14430048463322,8.0,16.80000001192093
-[14:34:57] [Server thread/WARN]: oliveh2003 moved too quickly! -15.14430048463322,8.0,16.80000001192093
-[14:41:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-366, y=70, z=417} class_2338{x=-434, y=69, z=323}
-[14:54:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-433, y=64, z=316} class_2338{x=-433, y=65, z=317}
-[14:59:18] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[14:59:18] [Server thread/INFO]: oliveh2003 left the game
-[15:29:13] [User Authenticator #6/INFO]: UUID of player Tobywoby08 is 02994294-d4fb-4bf3-ad4f-e758a98b49e5
-[15:29:13] [Server thread/INFO]: Tobywoby08[/192.168.1.1:54044] logged in with entity id 75951 at (-348.7628737920164, 63.0, 348.01776139928296)
-[15:29:13] [Server thread/INFO]: Tobywoby08 joined the game
-[15:34:46] [Server thread/INFO]: Tobywoby08 lost connection: Disconnected
-[15:34:46] [Server thread/INFO]: Tobywoby08 left the game
-[18:59:03] [User Authenticator #7/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[18:59:03] [Server thread/INFO]: oliveh2003[/127.0.0.1:37860] logged in with entity id 77419 at (-444.5, 71.0, 342.5)
-[18:59:03] [Server thread/INFO]: oliveh2003 joined the game
-[18:59:12] [User Authenticator #8/INFO]: UUID of player oliverw2003 is 5cecbe48-d6d8-4eff-8f66-0645850a561e
-[18:59:12] [Server thread/INFO]: oliverw2003[/192.168.86.250:49838] logged in with entity id 77709 at (-444.5, 71.0, 359.5)
-[18:59:12] [Server thread/INFO]: oliverw2003 joined the game
-[19:01:37] [Server thread/INFO]: Locating element minecraft:jungle took 572 ms
-[19:22:41] [Server thread/INFO]: oliverw2003 was slain by oliveh2003
-[19:23:59] [Server thread/INFO]: oliverw2003 was shot by oliveh2003
-[19:24:18] [Server thread/INFO]: oliverw2003 was slain by oliveh2003
-[19:25:44] [Server thread/INFO]: [oliveh2003: Set the time to 1000]
-[19:27:41] [Server thread/INFO]: oliverw2003 was slain by oliveh2003
-[19:29:16] [Server thread/INFO]: oliverw2003 lost connection: Disconnected
-[19:29:16] [Server thread/INFO]: oliverw2003 left the game
-[19:29:38] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[19:29:38] [Server thread/INFO]: oliveh2003 left the game
+[09:00:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[09:00:27] [main/INFO]: Compatibility level set to JAVA_16
+[09:00:27] [main/INFO]: Compatibility level set to JAVA_17
+[09:00:27] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 0 override(s) found
+[09:00:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:00:31] [main/INFO]: Loaded 7 recipes
+[09:00:31] [main/INFO]: Loaded 1271 advancements
+[09:00:32] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.064 ms
+[09:00:32] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[09:00:32] [Server thread/INFO]: Loading properties
+[09:00:32] [Server thread/INFO]: Default game type: SURVIVAL
+[09:00:32] [Server thread/INFO]: Generating keypair
+[09:00:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:00:32] [Server thread/INFO]: Using epoll channel type
+[09:00:32] [Server thread/INFO]: Preparing level "olly"
+[09:00:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:00:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:00:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:00:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:00:34] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[09:00:34] [Worker-Main-12/INFO]: Preparing spawn area: 53%
+[09:00:35] [Server thread/INFO]: Time elapsed: 2183 ms
+[09:00:35] [Server thread/INFO]: Done (2.829s)! For help, type "help"
+[09:01:05] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[09:01:05] [Server thread/INFO]: oliveh2003[/127.0.0.1:46838] logged in with entity id 9 at (-279.03945270088377, 63.0, 286.86998293283096)
+[09:01:05] [Server thread/INFO]: oliveh2003 joined the game
+[09:16:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-439, y=53, z=354} class_2338{x=-442, y=47, z=357}
+[09:36:25] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[09:36:25] [Server thread/INFO]: oliveh2003 left the game
+[19:56:40] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[19:56:40] [Server thread/INFO]: oliveh2003[/127.0.0.1:42432] logged in with entity id 7361 at (-428.3420231827013, 47.0, 357.2910123662713)
+[19:56:40] [Server thread/INFO]: oliveh2003 joined the game
+[19:57:22] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[19:57:22] [Server thread/INFO]: oliveh2003 left the game
