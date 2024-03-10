@@ -4011,5 +4011,11 @@
     },
     "done": true
   },
-  "DataVersion": 3578
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-03-10 19:37:18 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
 }
