@@ -1,5 +1,5 @@
-[10:45:17] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
-[10:45:17] [main/INFO]: Loading 42 mods:
+[20:08:15] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[20:08:15] [main/INFO]: Loading 42 mods:
 	- fabric-api 0.96.4+1.20.4
 	   |-- fabric-api-base 0.4.36+78d798af4f
 	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
@@ -55,29 +55,31 @@
 	   \-- mixinextras 0.3.5
 	- java 17
 	- minecraft 1.20.4
-[10:45:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[10:45:17] [main/INFO]: Compatibility level set to JAVA_17
-[10:45:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[10:45:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10:45:22] [main/INFO]: Loaded 7 recipes
-[10:45:22] [main/INFO]: Loaded 1271 advancements
-[10:45:23] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 989.3 μs
-[10:45:23] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[10:45:23] [Server thread/INFO]: Loading properties
-[10:45:23] [Server thread/INFO]: Default game type: SURVIVAL
-[10:45:23] [Server thread/INFO]: Generating keypair
-[10:45:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:45:23] [Server thread/INFO]: Using epoll channel type
-[10:45:23] [Server thread/INFO]: Preparing level "olly"
-[10:45:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:45:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:45:25] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[10:45:25] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[10:45:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:45:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[10:45:26] [Worker-Main-13/INFO]: Preparing spawn area: 24%
-[10:45:26] [Server thread/INFO]: Time elapsed: 2787 ms
-[10:45:26] [Server thread/INFO]: Done (3.364s)! For help, type "help"
-[10:45:52] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[10:45:52] [Server thread/INFO]: oliveh2003[/127.0.0.1:47618] logged in with entity id 10 at (-440.8587646091948, 63.9375, 354.5737561415997)
-[10:45:52] [Server thread/INFO]: oliveh2003 joined the game
+[20:08:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[20:08:15] [main/INFO]: Compatibility level set to JAVA_17
+[20:08:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[20:08:19] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:08:20] [main/INFO]: Loaded 7 recipes
+[20:08:20] [main/INFO]: Loaded 1271 advancements
+[20:08:20] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.014 ms
+[20:08:20] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:08:20] [Server thread/INFO]: Loading properties
+[20:08:20] [Server thread/INFO]: Default game type: SURVIVAL
+[20:08:20] [Server thread/INFO]: Generating keypair
+[20:08:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:08:20] [Server thread/INFO]: Using epoll channel type
+[20:08:21] [Server thread/INFO]: Preparing level "olly"
+[20:08:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:08:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:23] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[20:08:23] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:08:24] [Worker-Main-3/INFO]: Preparing spawn area: 34%
+[20:08:24] [Server thread/INFO]: Time elapsed: 2758 ms
+[20:08:24] [Server thread/INFO]: Done (3.371s)! For help, type "help"
+[20:08:50] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[20:08:50] [Server thread/INFO]: oliveh2003[/127.0.0.1:58530] logged in with entity id 10 at (-753.5, 97.157366454806, 164.5)
+[20:08:50] [Server thread/INFO]: oliveh2003 joined the game
+[20:19:39] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[20:19:39] [Server thread/INFO]: oliveh2003 left the game
