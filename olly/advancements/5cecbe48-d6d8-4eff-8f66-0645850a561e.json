@@ -7,9 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2023-06-21 20:31:42 +0100",
       "minecraft:taiga": "2023-06-21 20:34:54 +0100",
       "minecraft:river": "2023-06-17 21:57:32 +0100",
-      "minecraft:forest": "2023-06-21 20:31:42 +0100",
       "minecraft:old_growth_spruce_taiga": "2023-06-17 21:37:58 +0100",
       "minecraft:plains": "2023-06-17 21:43:44 +0100"
     },
@@ -1576,5 +1576,11 @@
     },
     "done": true
   },
-  "DataVersion": 3465
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-03-19 19:16:28 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
 }
