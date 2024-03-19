@@ -83,3 +83,41 @@
 [09:01:36] [Server thread/INFO]: oliveh2003 joined the game
 [09:32:02] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
 [09:32:02] [Server thread/INFO]: oliveh2003 left the game
+[11:00:16] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[11:00:16] [Server thread/INFO]: oliveh2003[/192.168.86.222:43926] logged in with entity id 7578 at (-258.43260224824485, 68.0, 270.63427982658317)
+[11:00:16] [Server thread/INFO]: oliveh2003 joined the game
+[11:05:11] [Server thread/WARN]: oliveh2003 moved wrongly!
+[11:19:21] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[11:19:21] [Server thread/INFO]: oliveh2003 left the game
+[12:21:38] [User Authenticator #3/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[12:21:39] [Server thread/INFO]: oliveh2003[/192.168.86.222:58012] logged in with entity id 11548 at (-272.73008087250287, 64.0, 288.07635246889186)
+[12:21:39] [Server thread/INFO]: oliveh2003 joined the game
+[12:24:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-251, y=69, z=357} class_2338{x=-252, y=70, z=357}
+[12:28:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-247, y=71, z=368} class_2338{x=-247, y=71, z=366}
+[12:34:07] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[12:34:07] [Server thread/INFO]: oliveh2003 left the game
+[12:34:10] [User Authenticator #4/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[12:34:10] [Server thread/INFO]: oliveh2003[/192.168.86.222:51946] logged in with entity id 14899 at (-308.8243833793493, 66.0, 364.67077361429875)
+[12:34:10] [Server thread/INFO]: oliveh2003 joined the game
+[12:44:10] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[12:44:10] [Server thread/INFO]: oliveh2003 left the game
+[12:45:57] [User Authenticator #5/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[12:45:57] [Server thread/INFO]: oliveh2003[/192.168.86.222:56024] logged in with entity id 16921 at (-270.5444615186738, 64.0, 303.89307153149514)
+[12:45:57] [Server thread/INFO]: oliveh2003 joined the game
+[12:52:36] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
+[12:52:53] [Server thread/INFO]: [oliveh2003: Set the weather to clear]
+[12:55:18] [Server thread/WARN]: oliveh2003 moved too quickly! 9.849702928759427,0.0,4.367820257917401
+[12:56:40] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[12:57:00] [Server thread/INFO]: Locating element minecraft:ocean_ruin_cold took 9 ms
+[12:57:04] [Server thread/INFO]: Locating element minecraft:ocean_ruin_warm took 134 ms
+[12:57:26] [Server thread/INFO]: [oliveh2003: Teleported oliveh2003 to -1279.500000, 64.000000, -607.500000]
+[12:57:26] [Server thread/WARN]: oliveh2003 moved too quickly! -876.0289795859773,0.0,-876.1883109034643
+[12:57:26] [Server thread/WARN]: oliveh2003 moved too quickly! -876.0289795859773,0.0,-876.1883109034643
+[12:58:53] [Server thread/INFO]: [oliveh2003: Teleported oliveh2003 to -2191.500000, 64.000000, -1583.500000]
+[12:58:53] [Server thread/WARN]: oliveh2003 moved too quickly! -1055.32653859461,0.0,-979.3245589377065
+[12:58:53] [Server thread/WARN]: oliveh2003 moved too quickly! -1055.32653859461,0.0,-979.3245589377065
+[12:59:10] [Server thread/INFO]: oliveh2003 was killed
+[12:59:10] [Server thread/INFO]: [oliveh2003: Killed oliveh2003]
+[12:59:59] [Server thread/INFO]: Locating element #minecraft:ocean_ruin (minecraft:ocean_ruin_cold) took 0 ms
+[13:13:20] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[13:13:20] [Server thread/INFO]: oliveh2003 left the game
