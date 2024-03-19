@@ -1,5 +1,5 @@
-[18:19:23] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
-[18:19:23] [main/INFO]: Loading 42 mods:
+[19:55:23] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[19:55:23] [main/INFO]: Loading 42 mods:
 	- fabric-api 0.96.4+1.20.4
 	   |-- fabric-api-base 0.4.36+78d798af4f
 	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
@@ -55,42 +55,39 @@
 	   \-- mixinextras 0.3.5
 	- java 17
 	- minecraft 1.20.4
-[18:19:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[18:19:23] [main/INFO]: Compatibility level set to JAVA_17
-[18:19:23] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[18:19:27] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:19:28] [main/INFO]: Loaded 7 recipes
-[18:19:28] [main/INFO]: Loaded 1271 advancements
-[18:19:28] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.029 ms
-[18:19:28] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[18:19:28] [Server thread/INFO]: Loading properties
-[18:19:28] [Server thread/INFO]: Default game type: SURVIVAL
-[18:19:28] [Server thread/INFO]: Generating keypair
-[18:19:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:19:28] [Server thread/INFO]: Using epoll channel type
-[18:19:29] [Server thread/INFO]: Preparing level "olly"
-[18:19:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:19:31] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[18:19:31] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[18:19:31] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[18:19:31] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:19:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:19:32] [Worker-Main-15/INFO]: Preparing spawn area: 5%
-[18:19:32] [Server thread/INFO]: Time elapsed: 2884 ms
-[18:19:32] [Server thread/INFO]: Done (3.456s)! For help, type "help"
-[18:25:11] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[18:25:11] [Server thread/INFO]: oliveh2003[/192.168.86.222:55396] logged in with entity id 9 at (-402.3264078028737, 68.0, 385.93542136364107)
-[18:25:11] [Server thread/INFO]: oliveh2003 joined the game
-[18:28:01] [Server thread/INFO]: oliverw2003 (/192.168.86.236:62933) lost connection: Disconnected
-[18:28:05] [Server thread/INFO]: oliverw2003 (/192.168.86.236:62937) lost connection: Disconnected
-[18:28:08] [Server thread/INFO]: oliverw2003 (/192.168.86.236:62942) lost connection: Disconnected
-[18:28:40] [Server thread/INFO]: oliverw2003 (/192.168.86.236:62967) lost connection: Disconnected
-[18:29:03] [Server thread/INFO]: <oliveh2003> hello
-[18:31:10] [User Authenticator #2/INFO]: UUID of player oliverw2003 is 5cecbe48-d6d8-4eff-8f66-0645850a561e
-[18:31:10] [Server thread/INFO]: oliverw2003[/192.168.86.236:62998] logged in with entity id 1072 at (-393.9861776456526, 62.9375, 338.63190724185597)
-[18:31:10] [Server thread/INFO]: oliverw2003 joined the game
-[19:16:28] [Server thread/INFO]: oliverw2003 has made the advancement [Surge Protector]
-[19:42:18] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[19:42:18] [Server thread/INFO]: oliveh2003 left the game
-[19:42:26] [Server thread/INFO]: oliverw2003 lost connection: Disconnected
-[19:42:26] [Server thread/INFO]: oliverw2003 left the game
+[19:55:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[19:55:23] [main/INFO]: Compatibility level set to JAVA_17
+[19:55:23] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[19:55:27] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:55:28] [main/INFO]: Loaded 7 recipes
+[19:55:28] [main/INFO]: Loaded 1271 advancements
+[19:55:29] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 979.6 μs
+[19:55:29] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[19:55:29] [Server thread/INFO]: Loading properties
+[19:55:29] [Server thread/INFO]: Default game type: SURVIVAL
+[19:55:29] [Server thread/INFO]: Generating keypair
+[19:55:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:55:29] [Server thread/INFO]: Using epoll channel type
+[19:55:29] [Server thread/INFO]: Preparing level "olly"
+[19:55:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:55:31] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:55:31] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:55:31] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:55:31] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:55:31] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:55:32] [Worker-Main-14/INFO]: Preparing spawn area: 85%
+[19:55:32] [Server thread/INFO]: Time elapsed: 2570 ms
+[19:55:32] [Server thread/INFO]: Done (3.148s)! For help, type "help"
+[19:55:36] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[19:55:36] [Server thread/INFO]: oliveh2003[/192.168.86.222:60350] logged in with entity id 9 at (-436.491490906449, 54.0, 354.67756404296694)
+[19:55:36] [Server thread/INFO]: oliveh2003 joined the game
+[19:56:58] [Server thread/INFO]: [oliveh2003: Set the weather to clear]
+[19:57:19] [Server thread/INFO]: [oliveh2003: Set own game mode to Creative Mode]
+[19:58:24] [Server thread/INFO]: [oliveh2003: Set own game mode to Survival Mode]
+[19:58:26] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[19:58:26] [Server thread/INFO]: oliveh2003 left the game
+[20:11:04] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[20:11:04] [Server thread/INFO]: oliveh2003[/192.168.86.222:56328] logged in with entity id 1226 at (-409.2311513794992, 62.9375, 333.1083010649192)
+[20:11:04] [Server thread/INFO]: oliveh2003 joined the game
+[20:12:38] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[20:12:38] [Server thread/INFO]: oliveh2003 left the game
