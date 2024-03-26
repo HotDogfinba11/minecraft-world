@@ -1,5 +1,5 @@
-[16:24:35] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
-[16:24:35] [main/INFO]: Loading 42 mods:
+[13:09:24] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[13:09:24] [main/INFO]: Loading 42 mods:
 	- fabric-api 0.96.4+1.20.4
 	   |-- fabric-api-base 0.4.36+78d798af4f
 	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
@@ -55,46 +55,31 @@
 	   \-- mixinextras 0.3.5
 	- java 17
 	- minecraft 1.20.4
-[16:24:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[16:24:35] [main/INFO]: Compatibility level set to JAVA_17
-[16:24:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[16:24:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:24:40] [main/INFO]: Loaded 7 recipes
-[16:24:40] [main/INFO]: Loaded 1271 advancements
-[16:24:41] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 987.6 μs
-[16:24:41] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[16:24:41] [Server thread/INFO]: Loading properties
-[16:24:41] [Server thread/INFO]: Default game type: SURVIVAL
-[16:24:41] [Server thread/INFO]: Generating keypair
-[16:24:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:24:41] [Server thread/INFO]: Using epoll channel type
-[16:24:41] [Server thread/INFO]: Preparing level "olly"
-[16:24:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:24:43] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:24:43] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:24:43] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:24:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:24:43] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:24:44] [Worker-Main-15/INFO]: Preparing spawn area: 43%
-[16:24:44] [Server thread/INFO]: Time elapsed: 2707 ms
-[16:24:44] [Server thread/INFO]: Done (3.304s)! For help, type "help"
-[16:26:39] [User Authenticator #1/INFO]: UUID of player oliverw2003 is 5cecbe48-d6d8-4eff-8f66-0645850a561e
-[16:26:39] [Server thread/INFO]: oliverw2003[/192.168.86.236:52555] logged in with entity id 9 at (-440.7421273234575, 47.0, 369.06282942949264)
-[16:26:39] [Server thread/INFO]: oliverw2003 joined the game
-[16:29:11] [User Authenticator #2/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[16:29:12] [Server thread/INFO]: oliveh2003[/192.168.86.222:50706] logged in with entity id 810 at (-353.7636965468319, 68.0, 383.2972939130604)
-[16:29:12] [Server thread/INFO]: oliveh2003 joined the game
-[16:30:31] [Server thread/INFO]: oliverw2003 was shot by oliveh2003
-[16:41:38] [Server thread/INFO]: Villager class_1646['Villager'/70, l='ServerLevel[world]', x=-380.50, y=61.56, z=395.50] died, message: 'Villager was slain by Zombie'
-[16:41:43] [Server thread/INFO]: Villager class_1646['Villager'/71, l='ServerLevel[world]', x=-381.16, y=61.56, z=395.30] died, message: 'Villager was slain by Zombie Villager'
-[16:41:49] [Server thread/INFO]: Villager class_1646['Villager'/74, l='ServerLevel[world]', x=-381.33, y=61.56, z=395.30] died, message: 'Villager was slain by Zombie Villager'
-[16:47:58] [Server thread/INFO]: oliveh2003 fell from a high place
-[16:48:02] [Server thread/INFO]: oliverw2003 fell from a high place
-[16:53:05] [Server thread/INFO]: Locating element minecraft:desert took 1067 ms
-[17:03:31] [Server thread/INFO]: <oliverw2003> creeper come out so we sleep
-[17:05:06] [Server thread/INFO]: <oliverw2003> no not enderman creepers
-[17:06:33] [Server thread/INFO]: <oliverw2003> abcdefghijklmnopqrstuvwxw and z now i know my abcs next time wont you sing with me
-[17:11:09] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[17:11:09] [Server thread/INFO]: oliveh2003 left the game
-[17:11:14] [Server thread/INFO]: oliverw2003 lost connection: Disconnected
-[17:11:14] [Server thread/INFO]: oliverw2003 left the game
+[13:09:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[13:09:24] [main/INFO]: Compatibility level set to JAVA_17
+[13:09:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[13:09:28] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:09:29] [main/INFO]: Loaded 7 recipes
+[13:09:30] [main/INFO]: Loaded 1271 advancements
+[13:09:30] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 889.4 μs
+[13:09:30] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[13:09:30] [Server thread/INFO]: Loading properties
+[13:09:30] [Server thread/INFO]: Default game type: SURVIVAL
+[13:09:30] [Server thread/INFO]: Generating keypair
+[13:09:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:09:30] [Server thread/INFO]: Using epoll channel type
+[13:09:30] [Server thread/INFO]: Preparing level "olly"
+[13:09:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:09:32] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[13:09:32] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:09:32] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:09:32] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[13:09:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:09:33] [Worker-Main-8/INFO]: Preparing spawn area: 31%
+[13:09:33] [Server thread/INFO]: Time elapsed: 2748 ms
+[13:09:33] [Server thread/INFO]: Done (3.331s)! For help, type "help"
+[13:17:48] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
+[13:17:50] [Server thread/INFO]: oliveh2003[/192.168.86.222:55300] logged in with entity id 9 at (-444.25396973443316, 57.0, 339.05620443937914)
+[13:17:50] [Server thread/INFO]: oliveh2003 joined the game
+[13:22:28] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
+[13:22:28] [Server thread/INFO]: oliveh2003 left the game
