@@ -1,5 +1,5 @@
-[13:09:24] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
-[13:09:24] [main/INFO]: Loading 42 mods:
+[20:25:15] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[20:25:15] [main/INFO]: Loading 42 mods:
 	- fabric-api 0.96.4+1.20.4
 	   |-- fabric-api-base 0.4.36+78d798af4f
 	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
@@ -55,31 +55,7 @@
 	   \-- mixinextras 0.3.5
 	- java 17
 	- minecraft 1.20.4
-[13:09:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[13:09:24] [main/INFO]: Compatibility level set to JAVA_17
-[13:09:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[13:09:28] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:09:29] [main/INFO]: Loaded 7 recipes
-[13:09:30] [main/INFO]: Loaded 1271 advancements
-[13:09:30] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 889.4 μs
-[13:09:30] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[13:09:30] [Server thread/INFO]: Loading properties
-[13:09:30] [Server thread/INFO]: Default game type: SURVIVAL
-[13:09:30] [Server thread/INFO]: Generating keypair
-[13:09:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:09:30] [Server thread/INFO]: Using epoll channel type
-[13:09:30] [Server thread/INFO]: Preparing level "olly"
-[13:09:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:09:32] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[13:09:32] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[13:09:32] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[13:09:32] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[13:09:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[13:09:33] [Worker-Main-8/INFO]: Preparing spawn area: 31%
-[13:09:33] [Server thread/INFO]: Time elapsed: 2748 ms
-[13:09:33] [Server thread/INFO]: Done (3.331s)! For help, type "help"
-[13:17:48] [User Authenticator #1/INFO]: UUID of player oliveh2003 is 4ed76a30-9605-431e-a5eb-ccc9ad69b9a6
-[13:17:50] [Server thread/INFO]: oliveh2003[/192.168.86.222:55300] logged in with entity id 9 at (-444.25396973443316, 57.0, 339.05620443937914)
-[13:17:50] [Server thread/INFO]: oliveh2003 joined the game
-[13:22:28] [Server thread/INFO]: oliveh2003 lost connection: Disconnected
-[13:22:28] [Server thread/INFO]: oliveh2003 left the game
+[20:25:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/oliverwalton/minecraft-world/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[20:25:15] [main/INFO]: Compatibility level set to JAVA_17
+[20:25:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[20:25:19] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
